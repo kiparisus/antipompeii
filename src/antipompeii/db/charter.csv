@@ -1,0 +1,999 @@
+year,date,type,country,code,link
+2026,20260515,fire,Scotland,GBR,https://disasterscharter.org/activations/wildfire-in-united-kingdom-of-great-britain-and-northern-ireland-activation-1030-
+2026,20260503,volcano,Philippines,PHL,https://disasterscharter.org/activations/volcanic-eruption-in-philippines-activation-1029-
+2026,20260420,flood,New Zealand,NZL,https://disasterscharter.org/activations/flood-in-new-zealand-activation-1028-
+2026,20260412,cyclone,Papua New Guinea,PNG,https://disasterscharter.org/activations/flood-in-papua-new-guinea-activation-1027-
+2026,20260410,flood,Kazakhstan,KAZ,https://disasterscharter.org/activations/flood-in-kazakhstan-activation-1026-
+2026,20260409,cyclone,New Zealand,NZL,https://disasterscharter.org/activations/flood-in-new-zealand-activation-1024-
+2026,20260408,flood,Dominican Republic,DOM,https://disasterscharter.org/activations/flood-in-dominican-republic-activation-1025-
+2026,20260408,cyclone,Solomon Islands,SLB,https://disasterscharter.org/activations/tropical-cyclone-in-solomon-islands-activation-1023-
+2026,20260325,flood,New Zealand,NZL,https://disasterscharter.org/activations/flood-in-new-zealand-activation-1022-
+2026,20260312,flood,Argentina,ARG,https://disasterscharter.org/activations/flood-in-argentina-activation-1021-
+2026,20260224,flood,Peru,PER,https://disasterscharter.org/activations/flood-in-peru-activation-1020-
+2026,20260224,flood,Brazil,BRA,https://disasterscharter.org/activations/flood-in-brazil-activation-1019-
+2026,20260207,flood,Colombia,COL,https://disasterscharter.org/activations/flood-in-colombia-activation-1018-
+2026,20260201,cyclone,Madagascar,MDG,https://disasterscharter.org/activations/tropical-cyclone-fytia-in-madagascar-activation-1017-
+2026,20260130,flood,Morocco,MAR,https://disasterscharter.org/activations/flood-in-morocco-activation-1016-
+2026,20260125,flood,Mozambique,MOZ,https://disasterscharter.org/activations/flood-in-mozambique-activation-1015-
+2026,20260121,storm,New Zealand,NZL,https://disasterscharter.org/activations/storm-in-new-zealand-activation-1014-
+2026,20260118,wildfire,Chile,CHL,https://disasterscharter.org/activations/wildfire-in-chile-activation-1013-
+2026,20260115,flood,South Africa,ZAF,https://disasterscharter.org/activations/flood-in-south-africa-activation-1012-
+2026,20260110,wildfire,South Africa,ZAF,https://disasterscharter.org/activations/wildfire-in-south-africa-activation-1011-
+2026,20260107,wildfire,Argentina,ARG,https://disasterscharter.org/activations/wildfire-in-argentina-activation-1010-
+2025,20251231,flood,Zambia,ZMB,https://disasterscharter.org/activations/flood-in-zambia-activation-1009-
+2025,20251216,flood,Bolivia,BOL,https://disasterscharter.org/activations/flood-in-bolivia-activation-1008-
+2025,20251216,flood,Morocco,MAR,https://disasterscharter.org/activations/flood-in-morocco-activation-1007-
+2025,20251129,landslide,Indonesia,IDN,https://disasterscharter.org/activations/landslide-in-indonesia-activation-1006-
+2025,20251126,flood,Sri Lanka,LKA,https://disasterscharter.org/activations/flood-in-sri-lanka-activation-1005-
+2025,20251124,flood,Thailand,THA,https://disasterscharter.org/activations/flood-in-thailand-activation-1004-
+2025,20251116,flood,Palestine,PSE,https://disasterscharter.org/activations/flood-in-palestine-state-of-activation-1003-
+2025,20251108,tornado,Brazil,BRA,https://disasterscharter.org/activations/storm-in-brazil-activation-1002-
+2025,20251107,typhoon,the Philippines,PHL,https://disasterscharter.org/activations/flood-in-philippines-activation-1001-
+2025,20251103,earthquake,Afghanistan,AFG,https://disasterscharter.org/activations/earthquake-in-afghanistan-activation-1000-
+2025,20251101,flood,Kenya,KEN,https://disasterscharter.org/activations/flood-in-kenya-activation-999-
+2025,20251029,cyclone,India,IND,https://disasterscharter.org/activations/flood-in-india-activation-998-
+2025,20251028,hurricane,Cuba,CUB,https://disasterscharter.org/activations/storm-in-cuba-activation-997-
+2025,20251024,hurricane,Jamaica,JAM,https://disasterscharter.org/activations/flood-in-jamaica-activation-996-
+2025,20251023,storm,Dominican Republic,DOM,https://disasterscharter.org/activations/flood-in-dominican-republic-activation-995-
+2025,20251022,storm,New Zealand,NZL,https://disasterscharter.org/activations/storm-in-new-zealand-activation-994-
+2025,20251010,earthquake,Philippines,PHL,https://disasterscharter.org/activations/earthquake-in-philippines-activation-967-
+2025,20251007,flood,Bhutan,BTN,https://disasterscharter.org/activations/flood-in-bhutan-activation-993-
+2025,20251001,earthquake,the Philippines,PHL,https://disasterscharter.org/activations/earthquake-in-philippines-activation-992-
+2025,20250920,typhoon,Philippines,PHL,https://disasterscharter.org/activations/flood-in-philippines-activation-991-
+2025,20250903,landslide,Sudan,SDN,https://disasterscharter.org/activations/landslide-in-sudan-activation-990-
+2025,20250901,earthquake,Afghanistan,AFG,https://disasterscharter.org/activations/earthquake-in-afghanistan-activation-989-
+2025,20250830,flood,Sudan,SDN,https://disasterscharter.org/activations/flood-in-sudan-activation-988-
+2025,20250828,flood,Palestine,PSE,https://disasterscharter.org/activations/flood-in-palestine-state-of-activation-987-
+2025,20250826,cyclone,Laos,LAO,https://disasterscharter.org/activations/flood-in-laos-lao-people-s-democratic-republic-activation-986-
+2025,20250826,cyclone,Vietnam,VNM,https://disasterscharter.org/activations/flood-in-viet-nam-activation-985-
+2025,20250819,flood,India,IND,https://disasterscharter.org/activations/flood-in-india-activation-984-
+2025,20250817,oil spill,Kazakhstan,KAZ,https://disasterscharter.org/activations/oil-spill-in-kazakhstan-activation-983-
+2025,20250813,landslide,Turkmenistan,TKM,https://disasterscharter.org/activations/landslide-in-turkmenistan-activation-982-
+2025,20250812,storm,Cabo Verde,CPV,https://disasterscharter.org/activations/flood-in-cabo-verde-activation-981-
+2025,20250805,flood,India,IND,https://disasterscharter.org/activations/flood-in-india-activation-980-
+2025,20250730,flood,India,IND,https://disasterscharter.org/activations/flood-in-india-activation-979-
+2025,20250725,cyclone,Thailand,THA,https://disasterscharter.org/activations/flood-in-thailand-activation-978-
+2025,20250723,cyclone,the Philippines,PHL,https://disasterscharter.org/activations/flood-in-philippines-activation-977-
+2025,20250722,storm,Vietnam,VNM,https://disasterscharter.org/activations/flood-in-viet-nam-activation-976-
+2025,20250722,cyclone,Laos,LAO,https://disasterscharter.org/activations/flood-in-laos-lao-people-s-democratic-republic-activation-975-
+2025,20250717,flood,Korea,KOR,https://disasterscharter.org/activations/flood-in-korea-republic-of-activation-974-
+2025,20250712,flood,New Zealand,NZL,https://disasterscharter.org/activations/flood-in-new-zealand-activation-973-
+2025,20250709,earthquake,Guatemala,GTM,https://disasterscharter.org/activations/earthquake-in-guatemala-activation-972-
+2025,20250707,fire,Syrian Arab Republic,SYR,https://disasterscharter.org/activations/fire-in-syrian-arab-republic-activation-971-
+2025,20250702,flood,Nepal,NPL,https://disasterscharter.org/activations/flood-in-nepal-activation-970-
+2025,20250630,flood,Kyrgyzstan,KGZ,https://disasterscharter.org/activations/flood-in-kyrgyzstan-activation-969-
+2025,20250625,flood,Venezuela,VEN,https://disasterscharter.org/activations/flood-in-venezuela-activation-968-
+2025,20250618,flood,Brazil,BRA,https://disasterscharter.org/activations/flood-in-brazil-activation-966-
+2025,20250613,earthquake,Colombia,COL,https://disasterscharter.org/activations/earthquake-in-colombia-activation-965-
+2025,20250612,flood,South Africa,ZAF,https://disasterscharter.org/activations/flood-in-south-africa-activation-964-
+2025,20250602,flood,Nigeria,NGA,https://disasterscharter.org/activations/flood-in-nigeria-activation-963-
+2025,20250424,fire,Russian Federation,RUS,https://disasterscharter.org/activations/fire-in-russian-federation-activation-962-
+2025,20250410,flood,Congo,COG,https://disasterscharter.org/activations/flood-in-congo-democratic-republic-of-the-activation-961-
+2025,20250407,flood,Kazakhstan,KAZ,https://disasterscharter.org/activations/flood-in-kazakhstan-activation-960-
+2025,20250404,fire,Kazakhstan,KAZ,https://disasterscharter.org/activations/fire-in-kazakhstan-activation-959-
+2025,20250403,oil spill,Russian Federation,RUS,https://disasterscharter.org/activations/oil-spill-in-russian-federation-activation-958-
+2025,20250328,earthquake,Thailand,THA,https://disasterscharter.org/activations/earthquake-in-thailand-activation-957-
+2025,20250328,earthquake,Myanmar,MMR,https://disasterscharter.org/activations/earthquake-in-myanmar-activation-956-
+2025,20250321,flood,Bolivia,BOL,https://disasterscharter.org/activations/flood-in-bolivia-activation-955-
+2025,20250319,oil spill,Ecuador,ECU,https://disasterscharter.org/activations/oil-spill-in-ecuador-activation-954-
+2025,20250316,flood,Kazakhstan,KAZ,https://disasterscharter.org/activations/flood-in-kazakhstan-activation-953-
+2025,20250312,cyclone,Madagascar,MDG,https://disasterscharter.org/activations/tropical-cyclone-honde-in-madagascar-activation-952-
+2025,20250310,landslide,Ecuador,ECU,https://disasterscharter.org/activations/landslide-in-ecuador-activation-951-
+2025,20250310,cyclone,Mozambique,MOZ,https://disasterscharter.org/activations/storm-hurricane-in-mozambique-activation-950-
+2025,20250308,cyclone,Madagascar,MDG,https://disasterscharter.org/activations/flood-in-madagascar-activation-949-
+2025,20250307,flood,Argentina,ARG,https://disasterscharter.org/activations/flood-in-argentina-activation-948-
+2025,20250305,fire,Libya,LBY,https://disasterscharter.org/activations/fire-in-libya-activation-947-
+2025,20250303,flood,Peru,PER,https://disasterscharter.org/activations/flood-in-peru-activation-946-
+2025,20250224,flood,Botswana,BWA,https://disasterscharter.org/activations/flood-in-botswana-activation-945-
+2025,20250206,oil spill,Russian Federation,RUS,https://disasterscharter.org/activations/oil-spill-in-russian-federation-activation-944-
+2025,20250123,storm,the United Kingdom,GBR,https://disasterscharter.org/activations/storm-hurricane-in-united-kingdom-activation-943-
+2025,20250108,earthquake,China,CHN,https://disasterscharter.org/activations/earthquake-in-china-activation-942-
+2024,20241230,flood,Scotland,GBR,https://disasterscharter.org/activations/flood-in-united-kingdom-activation-941-
+2024,20241223,oil spill,Peru,PER,https://disasterscharter.org/activations/oil-spill-in-peru-activation-940-
+2024,20241217,cyclone,French Southern Territories,ATF,https://disasterscharter.org/activations/storm-hurricane-in-french-southern-territories-activation-939-
+2024,20241217,earthquake,Vanuatu,VUT,https://disasterscharter.org/activations/earthquake-in-vanuatu-activation-938-
+2024,20241216,oil spill,Russia,RUS,https://disasterscharter.org/activations/oil-spill-in-russian-federation-activation-937-
+2024,20241213,cyclone,Mozambique,MOZ,https://disasterscharter.org/activations/storm-hurricane-in-mozambique-activation-936-
+2024,20241213,cyclone,Madagascar,MDG,https://disasterscharter.org/activations/flood-in-madagascar-activation-935-
+2024,20241210,flood,Indonesia,IDN,https://disasterscharter.org/activations/flood-in-indonesia-activation-934-
+2024,20241202,flood,Sri Lanka,LKA,https://disasterscharter.org/activations/flood-in-sri-lanka-activation-933-
+2024,20241127,flood,Sri Lanka,LKA,https://disasterscharter.org/activations/flood-in-sri-lanka-activation-932-
+2024,20241126,flood,Gaza,PSE,https://disasterscharter.org/activations/flood-in-palestinian-territory-occupied-activation-931-
+2024,20241117,typhoon,the Philippines,PHL,https://disasterscharter.org/activations/storm-hurricane-in-philippines-activation-930-
+2024,20241114,flood,Colombia,COL,https://disasterscharter.org/activations/flood-in-colombia-activation-928-
+2024,20241114,flood,Costa Rica,CRI,https://disasterscharter.org/activations/flood-in-costa-rica-activation-929-
+2024,20241107,volcano,Indonesia,IDN,https://disasterscharter.org/activations/volcano-in-indonesia-activation-927-
+2024,20241105,flood,The Dominican Republic,DMA,https://disasterscharter.org/activations/flood-in-dominican-republic-activation-926-
+2024,20241104,storm,the Cayman Islands,CYM,https://disasterscharter.org/activations/storm-hurricane-in-cayman-islands-activation-925-
+2024,20241101,flood,Spain,ESP,https://disasterscharter.org/activations/flood-in-spain-activation-924-
+2024,20241023,storm,the Philippines,PHL,https://disasterscharter.org/activations/flood-in-philippines-activation-923-
+2024,20241016,oil spill,Samoa,WSM,https://disasterscharter.org/activations/oil-spill-in-samoa-activation-922-
+2024,20241012,flood,Sri Lanka,LKA,https://disasterscharter.org/activations/flood-in-sri-lanka-activation-921-
+2024,20241009,hurricane,the United States,USA,https://disasterscharter.org/activations/storm-hurricane-in-united-states-activation-920-
+2024,20240929,flood,Nepal,NPL,https://disasterscharter.org/activations/flood-in-nepal-activation-919-
+2024,20240928,hurricane,Mexico,MEX,https://disasterscharter.org/activations/flood-in-mexico-activation-918-
+2024,20240924,flood,Sudan,SDN,https://disasterscharter.org/activations/flood-in-sudan-activation-917-
+2024,20240924,cyclone,Cayman Islands,CYM,https://disasterscharter.org/activations/flood-in-cayman-islands-activation-916-
+2024,20240921,fire,Argentina,ARG,https://disasterscharter.org/activations/fire-in-argentina-activation-915-
+2024,20240916,fire,Peru,PER,https://disasterscharter.org/activations/fire-in-peru-activation-914-
+2024,20240913,flood,Morocco,MAR,https://disasterscharter.org/activations/flood-in-morocco-activation-913-
+2024,20240912,typhoon,Thailand,THA,https://disasterscharter.org/activations/flood-in-thailand-activation-912-
+2024,20240912,typhoon,Myanmar,MMR,https://disasterscharter.org/activations/flood-in-myanmar-activation-911-
+2024,20240911,flood,Nigeria,NGA,https://disasterscharter.org/activations/flood-in-nigeria-activation-910-
+2024,20240910,typhoon,Vietnam,VNM,https://disasterscharter.org/activations/flood-in-viet-nam-activation-909-
+2024,20240907,fire,Bolivia,BOL,https://disasterscharter.org/activations/fire-in-bolivia-plurinational-state-of-activation-908-
+2024,20240903,flood,India,IND,https://disasterscharter.org/activations/flood-in-india-activation-907-
+2024,20240828,flood,Sudan,SDN,https://disasterscharter.org/activations/flood-in-sudan-activation-906-
+2024,20240827,flood,Bangladesh,BGD,https://disasterscharter.org/activations/flood-in-bangladesh-activation-905-
+2024,20240826,flood,Chad,TCD,https://disasterscharter.org/activations/flood-in-chad-activation-904-
+2024,20240825,flood,Guinea,GIN,https://disasterscharter.org/activations/flood-in-guinea-activation-903-
+2024,20240820,mudflow,Kyrgyzstan,KGZ,https://disasterscharter.org/activations/mudflow-in-kyrgyzstan-activation-902-
+2024,20240817,flood,Nepal,NPL,https://disasterscharter.org/activations/flood-in-nepal-activation-901-
+2024,20240730,landslide,India,IND,https://disasterscharter.org/activations/landslide-in-india-activation-900-
+2024,20240729,landslide,Ethiopia,ETH,https://disasterscharter.org/activations/landslide-in-ethiopia-activation-899-
+2024,20240725,flood,Kyrgyzstan,KGZ,https://disasterscharter.org/activations/flood-in-kyrgyzstan-activation-898-
+2024,20240725,oil spill,Philippines,PHL,https://disasterscharter.org/activations/oil-spill-in-philippines-activation-897-
+2024,20240718,flood,South Korea,KOR,https://disasterscharter.org/activations/flood-in-korea-republic-of-activation-896-
+2024,20240708,flood,Nepal,NPL,https://disasterscharter.org/activations/flood-in-nepal-activation-895-
+2024,20240705,hurricane,Dominican Republic,DOM,https://disasterscharter.org/activations/flood-in-dominican-republic-activation-894-
+2024,20240702,hurricane,the Cayman Islands,CYM,https://disasterscharter.org/activations/storm-hurricane-in-cayman-islands-activation-892-
+2024,20240702,hurricane,Venezuela,VEN,https://disasterscharter.org/activations/flood-in-venezuela-bolivarian-republic-of-activation-891-
+2024,20240702,hurricane,Jamaica,JAM,https://disasterscharter.org/activations/storm-hurricane-in-jamaica-activation-893-
+2024,20240702,wildfire,Russian Federation,RUS,https://disasterscharter.org/activations/fire-in-russian-federation-activation-890-
+2024,20240625,landslide,Kyrgyzstan,KGZ,https://disasterscharter.org/activations/landslide-in-kyrgyzstan-activation-889-
+2024,20240625,flood,Bangladesh,BGD,https://disasterscharter.org/activations/flood-in-bangladesh-activation-888-
+2024,20240603,flood,Sri Lanka,LKA,https://disasterscharter.org/activations/flood-in-sri-lanka-activation-887-
+2024,20240530,landslide,Papua New Guinea,PNG,https://disasterscharter.org/activations/landslide-in-papua-new-guinea-activation-885-
+2024,20240529,flood,Armenia,ARM,https://disasterscharter.org/activations/flood-in-armenia-activation-886-
+2024,20240528,cyclone,Bangladesh,BGD,https://disasterscharter.org/activations/flood-in-bangladesh-activation-884-
+2024,20240523,flood,Colombia,COL,https://disasterscharter.org/activations/flood-in-colombia-activation-883-
+2024,20240517,flood,Russia,RUS,https://disasterscharter.org/activations/flood-in-russian-federation-activation-882-
+2024,20240514,flood,Uruguay,URY,https://disasterscharter.org/activations/flood-in-uruguay-activation-881-
+2024,20240514,flood,"Sumatra, Indonesia",IDN,https://disasterscharter.org/activations/flood-in-indonesia-activation-879-
+2024,20240513,flood,Afghanistan,AFG,https://disasterscharter.org/activations/flood-in-afghanistan-activation-878-
+2024,20240513,flood,Argentina,ARG,https://disasterscharter.org/activations/flood-in-argentina-activation-880-
+2024,20240512,flood,"Sulawesi, Indonesia",IDN,https://disasterscharter.org/activations/flood-in-indonesia-activation-877-
+2024,20240508,flood,the Dominican Republic,DMA,https://disasterscharter.org/activations/flood-in-dominican-republic-activation-876-
+2024,20240430,flood,Brazil,BRA,https://disasterscharter.org/activations/flood-in-brazil-activation-875-
+2024,20240430,flood,Kenya,KEN,https://disasterscharter.org/activations/flood-in-kenya-activation-874-
+2024,20240419,volcano,Indonesia,IDN,https://disasterscharter.org/activations/volcano-in-indonesia-activation-873-
+2024,20240407,other,South Africa,ZAF,https://disasterscharter.org/activations/flood-in-south-africa-activation-872-
+2024,20240404,flood,Russia,RUS,https://disasterscharter.org/activations/flood-in-russian-federation-activation-871-
+2024,20240329,cyclone,Madagascar,MDG,https://disasterscharter.org/activations/flood-in-madagascar-activation-870-
+2024,20240315,flood,Mongolia,MNG,https://disasterscharter.org/activations/snow-hazard-in-mongolia-activation-869-
+2024,20240314,cyclone,Mozambique,MOZ,https://disasterscharter.org/activations/storm-hurricane-in-mozambique-activation-868-
+2024,20240308,storm,United Arab Emirates,ARE,https://disasterscharter.org/activations/flood-in-united-arab-emirates-activation-867-
+2024,20240306,flood,Bolivia,BOL,https://disasterscharter.org/activations/flood-in-bolivia-plurinational-state-of-activation-866-
+2024,20240229,flood,Brazil,BRA,https://disasterscharter.org/activations/flood-in-brazil-activation-865-
+2024,20240228,oil spill,Yemen,YEM,https://disasterscharter.org/activations/oil-spill-in-yemen-activation-864-
+2024,20240222,wildfire,Guatemala,GTM,https://disasterscharter.org/activations/fire-in-guatemala-activation-863-
+2024,20240220,flood,Ecuador,ECU,https://disasterscharter.org/activations/flood-in-ecuador-activation-862-
+2024,20240210,oil spill,Trinidad And Tobago,TTO,https://disasterscharter.org/activations/oil-spill-in-trinidad-and-tobago-activation-861-
+2024,20240206,flood,Libya,LBY,https://disasterscharter.org/activations/flood-in-libya-activation-860-
+2024,20240203,wildfire,Chile,CHL,https://disasterscharter.org/activations/fire-in-chile-activation-859-
+2024,20240122,flood,the Marshall Islands,MHL,https://disasterscharter.org/activations/flood-flash-in-marshall-islands-activation-858-
+2024,20240102,earthquake,Japan,JPN,https://disasterscharter.org/activations/earthquake-in-japan-activation-857-
+2023,20231227,storm,Eswatini,SWZ,https://disasterscharter.org/activations/storm-hurricane-rural-in-eswatini-activation-856-
+2023,20231219,earthquake,China,CHN,https://disasterscharter.org/activations/earthquake-in-china-activation-855-
+2023,20231218,explosion,Guinea,GIN,https://disasterscharter.org/activations/oil-spill-in-guinea-activation-854-
+2023,20231205,volcano,Indonesia,IDN,https://disasterscharter.org/activations/volcano-in-indonesia-activation-853-
+2023,20231119,storm,Haiti,HTI,https://disasterscharter.org/activations/landslide-in-haiti-activation-852-
+2023,20231118,flood,Brazil,BRA,https://disasterscharter.org/activations/flood-large-in-brazil-activation-851-
+2023,20231118,earthquake,Philippines,PHL,https://disasterscharter.org/activations/earthquake-in-philippines-activation-850-
+2023,20231110,flood,Somalia,SOM,https://disasterscharter.org/activations/flood-large-in-somalia-activation-849-
+2023,20231104,earthquake,Nepal,NPL,https://disasterscharter.org/activations/earthquake-in-nepal-activation-848-
+2023,20231025,hurricane,Mexico,MEX,https://disasterscharter.org/activations/landslide-in-mexico-activation-847-
+2023,20231023,cyclone,the Solomon Islands,SLB,https://disasterscharter.org/activations/storm-hurricane-urban-in-solomon-islands-activation-846-
+2023,20231023,cyclone,Vanuatu,VUT,https://disasterscharter.org/activations/storm-hurricane-urban-in-vanuatu-activation-845-
+2023,20231014,flood,Ghana,GHA,https://disasterscharter.org/activations/flood-large-in-ghana-activation-844-
+2023,20231008,earthquake,Afghanistan,AFG,https://disasterscharter.org/activations/earthquake-in-afghanistan-activation-843-
+2023,20231007,flood,India,IND,https://disasterscharter.org/activations/flood-flash-in-india-activation-842-
+2023,20231006,flood,United Kingdom,GBR,https://disasterscharter.org/activations/flood-large-in-united-kingdom-activation-841-
+2023,20230927,flood,South Africa,ZAF,https://disasterscharter.org/activations/flood-large-in-south-africa-activation-840-
+2023,20230912,flood,Libya,LBY,https://disasterscharter.org/activations/flood-large-in-libya-activation-839-
+2023,20230909,earthquake,Morocco,MAR,https://disasterscharter.org/activations/earthquake-in-morocco-activation-838-
+2023,20230906,cyclone,southern Brazil,BRA,https://disasterscharter.org/activations/flood-flash-in-brazil-activation-837-
+2023,20230816,landslide,Vietnam,VNM,https://disasterscharter.org/activations/landslide-in-viet-nam-activation-836-
+2023,20230814,typhoon,Russia,RUS,https://disasterscharter.org/activations/storm-hurricane-urban-in-russian-federation-activation-835-
+2023,20230808,typhoon,South Korea,KOR,https://disasterscharter.org/activations/typhoon-in-korea-republic-of-activation-834-
+2023,20230804,landslide,Georgia,GEO,https://disasterscharter.org/activations/landslide-in-georgia-activation-833-
+2023,20230731,typhoon,China,CHN,https://disasterscharter.org/activations/flood-large-in-china-activation-825-
+2023,20230724,wildfire,Tunisia,TUN,https://disasterscharter.org/activations/fire-in-tunisia-activation-832-
+2023,20230724,wildfire,Algeria,DZA,https://disasterscharter.org/activations/fire-in-algeria-activation-831-
+2023,20230721,landslide,Colombia,COL,https://disasterscharter.org/activations/landslide-in-colombia-activation-830-
+2023,20230720,landslide,South Korea,KOR,https://disasterscharter.org/activations/flood-flash-in-korea-republic-of-activation-829-
+2023,20230716,flood,South Korea,KOR,https://disasterscharter.org/activations/flood-flash-in-korea-republic-of-activation-828-
+2023,20230713,flood,India,IND,https://disasterscharter.org/activations/flood-large-in-india-activation-827-
+2023,20230628,flood,Chile,CHL,https://disasterscharter.org/activations/flood-large-in-chile-activation-826-
+2023,20230620,flood,Ethiopia,ETH,https://disasterscharter.org/activations/flood-large-in-ethiopia-activation-824-
+2023,20230613,cyclone,India,IND,https://disasterscharter.org/activations/storm-hurricane-rural-in-india-activation-823-
+2023,20230605,flood,Ecuador,ECU,https://disasterscharter.org/activations/flood-flash-in-ecuador-activation-822-
+2023,20230524,flood,Somalia,SOM,https://disasterscharter.org/activations/flood-large-in-somalia-activation-821-
+2023,20230517,shipwreck,Indian Ocean,IOT,https://disasterscharter.org/activations/fishing-vessel-sinking-in-china-activation-820-
+2023,20230511,cyclone,Bangladesh,BGD,https://disasterscharter.org/activations/storm-hurricane-urban-in-bangladesh-activation-819-
+2023,20230511,cyclone,Myanmar,MMR,https://disasterscharter.org/activations/storm-hurricane-rural-in-myanmar-activation-818-
+2023,20230508,flood,The Democratic Republic of the Congo,COG,https://disasterscharter.org/activations/flood-flash-in-congo-the-democratic-republic-of-the-activation-817-
+2023,20230504,flood,Rwanda,RWA,https://disasterscharter.org/activations/flood-flash-in-rwanda-activation-816-
+2023,20230328,flood,Brazil,BRA,https://disasterscharter.org/activations/flood-large-in-brazil-activation-815-
+2023,20230327,flood,South Africa,ZAF,https://disasterscharter.org/activations/flood-flash-in-south-africa-activation-814-
+2023,20230327,flood,Somalia and Ethiopia,ETH,https://disasterscharter.org/activations/flood-large-in-somalia-activation-813-
+2023,20230313,cyclone,Peru,PER,https://disasterscharter.org/activations/flood-large-in-peru-activation-811-
+2023,20230311,cyclone,Ecuador,ECU,https://disasterscharter.org/activations/flood-large-in-ecuador-activation-810-
+2023,20230310,cyclone,Madagascar,MDG,https://disasterscharter.org/activations/flood-large-in-madagascar-activation-812-
+2023,20230307,landslide,Indonesia,IDN,https://disasterscharter.org/activations/landslide-in-indonesia-activation-809-
+2023,20230303,cyclone,Vanuatu,VUT,https://disasterscharter.org/activations/storm-hurricane-urban-in-vanuatu-activation-808-
+2023,20230302,oil spill,the Philippines,PHL,https://disasterscharter.org/activations/oil-spill-in-philippines-activation-807-
+2023,20230227,cyclone,The Solomon Islands,SLB,https://disasterscharter.org/activations/storm-hurricane-rural-in-solomon-islands-activation-806-
+2023,20230224,storm,Mozambique,MOZ,https://disasterscharter.org/activations/flood-large-in-mozambique-activation-805-
+2023,20230221,cyclone,Madagascar,MDG,https://disasterscharter.org/activations/landslide-in-madagascar-activation-804-
+2023,20230220,landslide,Brazil,BRA,https://disasterscharter.org/activations/landslide-in-brazil-activation-803-
+2023,20230217,earthquake,Philippines,PHL,https://disasterscharter.org/activations/earthquake-in-philippines-activation-802-
+2023,20230216,flood,Mozambique,MOZ,https://disasterscharter.org/activations/flood-large-in-mozambique-activation-801-
+2023,20230211,flood,Eswatini,SWZ,https://disasterscharter.org/activations/flood-flash-in-eswatini-activation-800-
+2023,20230210,wildfire,Chile,CHL,https://disasterscharter.org/activations/fire-in-chile-activation-799-
+2023,20230206,earthquake,Syrian Arab Republic,SYR,https://disasterscharter.org/activations/earthquake-in-syrian-arab-republic-activation-798-
+2023,20230206,earthquake,Türkiye,TUR,https://disasterscharter.org/activations/earthquake-in-turkey-activation-797-
+2023,20230130,flood,Zambia,ZMB,https://disasterscharter.org/activations/flood-large-in-zambia-activation-796-
+2023,20230124,storm,Madagascar,MDG,https://disasterscharter.org/activations/storm-hurricane-urban-in-madagascar-activation-795-
+2023,20230116,landslide,Colombia,COL,https://disasterscharter.org/activations/landslide-in-colombia-activation-794-
+2022,20221220,oil spill,Mauritius,MUS,https://disasterscharter.org/activations/oil-spill-in-mauritius-activation-793-
+2022,20221205,volcano,Indonesia,IDN,https://disasterscharter.org/activations/volcano-in-indonesia-activation-792-
+2022,20221122,earthquake,Indonesia,IDN,https://disasterscharter.org/activations/earthquake-in-indonesia-activation-791-
+2022,20221118,flood,Scotland,GBR,https://disasterscharter.org/activations/flood-large-in-united-kingdom-activation-790-
+2022,20221029,storm,the Philippines,PHL,https://disasterscharter.org/activations/storm-hurricane-rural-in-philippines-activation-789-
+2022,20221020,flood,Chad,TCD,https://disasterscharter.org/activations/flood-large-in-chad-activation-788-
+2022,20221019,storm,Thailand,THA,https://disasterscharter.org/activations/flood-large-in-thailand-activation-787-
+2022,20221012,hurricane,Honduras,HND,https://disasterscharter.org/activations/flood-large-in-honduras-activation-786-
+2022,20221010,flood,Venezuela,VEN,https://disasterscharter.org/activations/flood-large-in-venezuela-bolivarian-republic-of-activation-785-
+2022,20221002,typhoon,Thailand,THA,https://disasterscharter.org/activations/flood-large-in-thailand-activation-784-
+2022,20220928,typhoon,Laos,LAO,https://disasterscharter.org/activations/storm-hurricane-urban-in-lao-people-s-democratic-republic-activation-783-
+2022,20220925,typhoon,the Philippines,PHL,https://disasterscharter.org/activations/storm-hurricane-urban-in-philippines-activation-782-
+2022,20220923,hurricane,Canada,CAN,https://disasterscharter.org/activations/storm-hurricane-urban-in-canada-activation-781-
+2022,20220920,hurricane,Turks and Caicos Islands,TCA,https://disasterscharter.org/activations/storm-hurricane-urban-in-turks-and-caicos-islands-activation-779-
+2022,20220920,hurricane,Dominican Republic,DOM,https://disasterscharter.org/activations/storm-hurricane-rural-in-dominican-republic-activation-780-
+2022,20220919,flood,Honduras,HND,https://disasterscharter.org/activations/flood-large-in-honduras-activation-778-
+2022,20220915,flood,Nigeria,NGA,https://disasterscharter.org/activations/flood-large-in-nigeria-activation-777-
+2022,20220912,flood,South Africa,ZAF,https://disasterscharter.org/activations/flood-large-in-south-africa-activation-776-
+2022,20220906,earthquake,China,CHN,https://disasterscharter.org/activations/earthquake-in-china-activation-775-
+2022,20220904,typhoon,Russia,RUS,https://disasterscharter.org/activations/flood-large-in-russian-federation-activation-774-
+2022,20220902,typhoon,South Korea,KOR,https://disasterscharter.org/activations/flood-large-in-korea-republic-of-activation-773-
+2022,20220830,flood,Pakistan,PAK,https://disasterscharter.org/activations/flood-large-in-pakistan-activation-772-
+2022,20220823,storm,the Philippines,PHL,https://disasterscharter.org/activations/flood-large-in-philippines-activation-771-
+2022,20220823,fire,Russian Federation,RUS,https://disasterscharter.org/activations/fire-in-russian-federation-activation-770-
+2022,20220821,flood,Sudan,SDN,https://disasterscharter.org/activations/flood-large-in-sudan-activation-769-
+2022,20220809,flood,Gambia,GMB,https://disasterscharter.org/activations/flood-flash-in-gambia-activation-768-
+2022,20220808,flood,Russian Federation,RUS,https://disasterscharter.org/activations/flood-flash-in-russian-federation-activation-767-
+2022,20220727,wildfire,Tunisia,TUN,https://disasterscharter.org/activations/fire-in-tunisia-activation-766-
+2022,20220727,earthquake,the Philippines,PHL,https://disasterscharter.org/activations/earthquake-in-philippines-activation-765-
+2022,20220714,flood,India,IND,https://disasterscharter.org/activations/flood-large-in-india-activation-764-
+2022,20220622,earthquake,Afghanistan,AFG,https://disasterscharter.org/activations/earthquake-in-afghanistan-activation-763-
+2022,20220617,flood,Bangladesh,BGD,https://disasterscharter.org/activations/flood-large-in-bangladesh-activation-762-
+2022,20220613,volcano,Philippines,PHL,https://disasterscharter.org/activations/volcano-in-philippines-activation-761-
+2022,20220606,fire,Afghanistan,AFG,https://disasterscharter.org/activations/fire-in-afghanistan-activation-760-
+2022,20220604,oil spill,Gambia,GMB,https://disasterscharter.org/activations/oil-spill-in-gambia-activation-759-
+2022,20220530,landslide,Brazil,BRA,https://disasterscharter.org/activations/landslide-in-brazil-activation-758-
+2022,20220524,flood,South Africa,ZAF,https://disasterscharter.org/activations/flood-large-in-south-africa-activation-757-
+2022,20220413,storm,the Philippines,PHL,https://disasterscharter.org/activations/flood-flash-in-philippines-activation-756-
+2022,20220413,landslide,South Africa,ZAF,https://disasterscharter.org/activations/landslide-in-south-africa-activation-755-
+2022,20220405,flood,Brazil,BRA,https://disasterscharter.org/activations/flood-large-in-brazil-activation-754-
+2022,20220313,cyclone,Mozambique,MOZ,https://disasterscharter.org/activations/flood-large-in-mozambique-activation-753-
+2022,20220225,cyclone,Madagascar,MDG,https://disasterscharter.org/activations/landslide-in-madagascar-activation-752-
+2022,20220216,landslide,Brazil,BRA,https://disasterscharter.org/activations/flood-flash-in-brazil-activation-751-
+2022,20220204,cyclone,Madagascar,MDG,https://disasterscharter.org/activations/flood-large-in-madagascar-activation-750-
+2022,20220131,flood,Ecuador,ECU,https://disasterscharter.org/activations/flood-flash-in-ecuador-activation-749-
+2022,20220125,storm,Mozambique,MOZ,https://disasterscharter.org/activations/flood-large-in-mozambique-activation-748-
+2022,20220124,flood,Madagascar,MDG,https://disasterscharter.org/activations/flood-large-in-madagascar-activation-747-
+2022,20220120,oil spill,Peru,PER,https://disasterscharter.org/activations/oil-spill-in-peru-activation-745-
+2022,20220120,flood,Sao Tome and Principe,STP,https://disasterscharter.org/activations/flood-large-in-sao-tome-and-principe-activation-746-
+2022,20220115,volcano,Tonga and the Pacific,TON,https://disasterscharter.org/activations/ocean-wave-in-tonga-activation-744-
+2022,20220107,volcano,Ecuador,ECU,https://disasterscharter.org/activations/volcano-in-ecuador-activation-743-
+2021,20211230,flood,Brazil,BRA,https://disasterscharter.org/activations/flood-large-in-brazil-activation-742-
+2021,20211216,typhoon,the Philippines,PHL,https://disasterscharter.org/activations/storm-hurricane-rural-in-philippines-activation-741-
+2021,20211208,flood,the Federated States Of Micronesia,FSM,https://disasterscharter.org/activations/flood-large-in-micronesia-federated-states-of-activation-740-
+2021,20211207,volcano,Indonesia,IDN,https://disasterscharter.org/activations/volcano-in-indonesia-activation-739-
+2021,20211124,volcano,Philippines from the Fukutoku-Okanoba Submarine Volcano eruption,PHL,https://disasterscharter.org/activations/oil-spill-in-philippines-activation-738-
+2021,20211112,flood,Sri Lanka,LKA,https://disasterscharter.org/activations/flood-large-in-sri-lanka-activation-737-
+2021,20211003,cyclone,Oman,OMN,https://disasterscharter.org/activations/storm-hurricane-urban-in-oman-activation-736-
+2021,20210928,flood,Thailand,THA,https://disasterscharter.org/activations/flood-large-in-thailand-activation-734-
+2021,20210916,earthquake,China,CHN,https://disasterscharter.org/activations/earthquake-in-china-activation-733-
+2021,20210909,flood,Sudan,SDN,https://disasterscharter.org/activations/flood-large-in-sudan-activation-732-
+2021,20210906,flood,Togo,TGO,https://disasterscharter.org/activations/flood-large-in-togo-activation-731-
+2021,20210817,flood,Haiti,HTI,https://disasterscharter.org/activations/flood-large-in-haiti-activation-730-
+2021,20210814,earthquake,Haiti,HTI,https://disasterscharter.org/activations/earthquake-in-haiti-activation-729-
+2021,20210814,fire,Russian Federation,RUS,https://disasterscharter.org/activations/fire-in-russian-federation-activation-728-
+2021,20210814,flood,Japan,JPN,https://disasterscharter.org/activations/flood-flash-in-japan-activation-727-
+2021,20210813,flood,Russian Federation,RUS,https://disasterscharter.org/activations/flood-large-in-russian-federation-activation-726-
+2021,20210804,flood,Russian Federation,RUS,https://disasterscharter.org/activations/flood-large-in-russian-federation-activation-725-
+2021,20210728,fire,Tunisia,TUN,https://disasterscharter.org/activations/fire-in-tunisia-activation-724-
+2021,20210726,flood,India,IND,https://disasterscharter.org/activations/flood-large-in-india-activation-723-
+2021,20210720,fire,Russian Federation,RUS,https://disasterscharter.org/activations/fire-in-russian-federation-activation-722-
+2021,20210715,flood,Switzerland,CHE,https://disasterscharter.org/activations/flood-large-in-switzerland-activation-720-
+2021,20210715,flood,Luxembourg,LUX,https://disasterscharter.org/activations/flood-large-in-luxembourg-activation-721-
+2021,20210706,explosion,Thailand,THA,https://disasterscharter.org/activations/fire-in-thailand-activation-719-
+2021,20210621,flood,Russian Federation,RUS,https://disasterscharter.org/activations/flood-flash-in-russian-federation-activation-718-
+2021,20210607,flood,Guyana,GUY,https://disasterscharter.org/activations/flood-large-in-guyana-activation-717-
+2021,20210605,flood,Sri Lanka,LKA,https://disasterscharter.org/activations/flood-large-in-sri-lanka-activation-716-
+2021,20210604,oil spill,Sri Lanka,LKA,https://disasterscharter.org/activations/oil-spill-in-sri-lanka-activation-715-
+2021,20210525,cyclone,"Tropical Cyclone Yaas, India",IND,https://disasterscharter.org/activations/storm-hurricane-rural-in-india-activation-714-
+2021,20210523,volcano,the Democratic Republic of the Congo,COG,https://disasterscharter.org/activations/volcano-in-congo-the-democratic-republic-of-the-activation-713-
+2021,20210522,earthquake,China,CHN,https://disasterscharter.org/activations/earthquake-in-china-activation-712-
+2021,20210522,earthquake,China,CHN,https://disasterscharter.org/activations/earthquake-in-china-activation-711-
+2021,20210521,flood,Russian Federation,RUS,https://disasterscharter.org/activations/flood-flash-in-russian-federation-activation-710-
+2021,20210516,cyclone,India,IND,https://disasterscharter.org/activations/storm-hurricane-urban-in-india-activation-709-
+2021,20210512,flood,Russian Federation,RUS,https://disasterscharter.org/activations/flood-large-in-russian-federation-activation-708-
+2021,20210507,flood,Russian Federation,RUS,https://disasterscharter.org/activations/flood-large-in-russian-federation-activation-707-
+2021,20210503,flood,Somalia,SOM,https://disasterscharter.org/activations/flood-large-in-somalia-activation-706-
+2021,20210414,flood,Russian Federation,RUS,https://disasterscharter.org/activations/flood-large-in-russian-federation-activation-705-
+2021,20210412,flood,Russian Federation,RUS,https://disasterscharter.org/activations/flood-flash-in-russian-federation-activation-704-
+2021,20210409,volcano,Saint Vincent And The Grenadines,VCT,https://disasterscharter.org/activations/volcano-in-saint-vincent-and-the-grenadines-activation-703-
+2021,20210407,cyclone,Timor-leste,TLS,https://disasterscharter.org/activations/flood-large-in-timor-leste-activation-701-
+2021,20210406,flood,Indonesia,IDN,https://disasterscharter.org/activations/flood-flash-in-indonesia-activation-702-
+2021,20210222,other,Philippines,PHL,https://disasterscharter.org/activations/flood-large-in-philippines-activation-700-
+2021,20210207,flood,India,IND,https://disasterscharter.org/activations/flood-flash-in-india-activation-698-
+2021,20210206,flood,Chile,CHL,https://disasterscharter.org/activations/flood-flash-in-chile-activation-699-
+2021,20210127,landslide,Eswatini,SWZ,https://disasterscharter.org/activations/landslide-in-eswatini-activation-697-
+2021,20210122,cyclone,Mozambique,MOZ,https://disasterscharter.org/activations/flood-large-in-mozambique-activation-696-
+2021,20210115,earthquake,Indonesia,IDN,https://disasterscharter.org/activations/earthquake-in-indonesia-activation-695-
+2021,20210112,flood,Morocco,MAR,https://disasterscharter.org/activations/flood-flash-in-morocco-activation-694-
+2021,20210104,flood,Bolivia,BOL,https://disasterscharter.org/activations/flood-flash-in-bolivia-plurinational-state-of-activation-693-
+2020,20201228,shipwreck,Russian Federation,RUS,https://disasterscharter.org/activations/ship-wreck-in-russian-federation-activation-692-
+2020,20201215,cyclone,Fiji,FJI,https://disasterscharter.org/activations/storm-hurricane-urban-in-fiji-activation-691-
+2020,20201202,cyclone,Sri Lanka,LKA,https://disasterscharter.org/activations/storm-hurricane-rural-in-sri-lanka-activation-690-
+2020,20201201,landslide,Mexico,MEX,https://disasterscharter.org/activations/landslide-in-mexico-activation-689-
+2020,20201124,cyclone,India,IND,https://disasterscharter.org/activations/storm-hurricane-urban-in-india-activation-688-
+2020,20201117,hurricane,Colombia,COL,https://disasterscharter.org/activations/storm-hurricane-urban-in-colombia-activation-687-
+2020,20201115,flood,Philippines,PHL,https://disasterscharter.org/activations/flood-large-in-philippines-activation-686-
+2020,20201110,volcano,Indonesia,IDN,https://disasterscharter.org/activations/volcano-in-indonesia-activation-685-
+2020,20201109,flood,Panama,PAN,https://disasterscharter.org/activations/flood-large-in-panama-activation-684-
+2020,20201106,flood,Mexico,MEX,https://disasterscharter.org/activations/flood-large-in-mexico-activation-683-
+2020,20201102,typhoon,Philippines,PHL,https://disasterscharter.org/activations/flood-large-in-philippines-activation-682-
+2020,20201028,typhoon,Vietnam,VNM,https://disasterscharter.org/activations/flood-large-in-viet-nam-activation-681-
+2020,20201015,flood,Vietnam,VNM,https://disasterscharter.org/activations/flood-large-in-viet-nam-activation-680-
+2020,20201012,flood,Togo,TGO,https://disasterscharter.org/activations/flood-large-in-togo-activation-679-
+2020,20200928,fire,Argentina,ARG,https://disasterscharter.org/activations/fire-in-argentina-activation-678-
+2020,20200921,flood,Niger,NER,https://disasterscharter.org/activations/flood-large-in-niger-activation-677-
+2020,20200915,fire,Bolivia,BOL,https://disasterscharter.org/activations/fire-in-bolivia-plurinational-state-of-activation-676-
+2020,20200907,flood,Sudan,SDN,https://disasterscharter.org/activations/flood-large-in-sudan-activation-675-
+2020,20200904,typhoon,Japan,JPN,https://disasterscharter.org/activations/storm-hurricane-rural-in-japan-activation-674-
+2020,20200831,typhoon,South Korea,KOR,https://disasterscharter.org/activations/storm-hurricane-urban-in-korea-republic-of-activation-673-
+2020,20200825,typhoon,South Korea,KOR,https://disasterscharter.org/activations/storm-hurricane-urban-in-korea-republic-of-activation-671-
+2020,20200824,flood,Cameroon,CMR,https://disasterscharter.org/activations/flood-flash-in-cameroon-activation-672-
+2020,20200819,flood,Russia,RUS,https://disasterscharter.org/activations/flood-large-in-russian-federation-activation-670-
+2020,20200819,earthquake,the Philippines,PHL,https://disasterscharter.org/activations/earthquake-in-philippines-activation-669-
+2020,20200814,landslide,South Korea,KOR,https://disasterscharter.org/activations/landslide-in-korea-republic-of-activation-668-
+2020,20200813,flood,Sudan,SDN,https://disasterscharter.org/activations/flood-large-in-sudan-activation-667-
+2020,20200808,oil spill,Mauritius,MUS,https://disasterscharter.org/activations/oil-spill-in-mauritius-activation-666-
+2020,20200808,flood,India,IND,https://disasterscharter.org/activations/flood-flash-in-india-activation-665-
+2020,20200805,industrial accident,Lebanon,LBN,https://disasterscharter.org/activations/industrial-accident-in-lebanon-activation-664-
+2020,20200722,flood,India,IND,https://disasterscharter.org/activations/flood-large-in-india-activation-663-
+2020,20200716,flood,Indonesia,IDN,https://disasterscharter.org/activations/flood-flash-in-indonesia-activation-662-
+2020,20200715,flood,India,IND,https://disasterscharter.org/activations/flood-large-in-india-activation-661-
+2020,20200713,flood,Bangladesh,BGD,https://disasterscharter.org/activations/flood-large-in-bangladesh-activation-660-
+2020,20200713,flood,Colombia,COL,https://disasterscharter.org/activations/flood-large-in-colombia-activation-659-
+2020,20200708,flood,Nepal,NPL,https://disasterscharter.org/activations/flood-large-in-nepal-activation-658-
+2020,20200706,flood,Japan,JPN,https://disasterscharter.org/activations/flood-large-in-japan-activation-657-
+2020,20200703,landslide,Myanmar,MMR,https://disasterscharter.org/activations/landslide-in-myanmar-activation-656-
+2020,20200604,oil spill,Russia,RUS,https://disasterscharter.org/activations/oil-spill-in-russian-federation-activation-655-
+2020,20200602,flood,El Salvador,SLV,https://disasterscharter.org/activations/flood-large-in-el-salvador-activation-654-
+2020,20200519,cyclone,India,IND,https://disasterscharter.org/activations/storm-hurricane-urban-in-india-activation-653-
+2020,20200518,cyclone,Bangladesh,BGD,https://disasterscharter.org/activations/flood-large-in-bangladesh-activation-652-
+2020,20200430,fire,Guatemala,GTM,https://disasterscharter.org/activations/fire-in-guatemala-activation-651-
+2020,20200428,flood,Somalia,SOM,https://disasterscharter.org/activations/flood-large-in-somalia-activation-650-
+2020,20200409,cyclone,Tonga,TON,https://disasterscharter.org/activations/storm-hurricane-urban-in-tonga-activation-650-
+2020,20200403,cyclone,Vanuatu,VUT,https://disasterscharter.org/activations/storm-hurricane-urban-in-vanuatu-activation-647-
+2020,20200306,flood,Zambia,ZMB,https://disasterscharter.org/activations/flood-large-in-zambia-activation-646-
+2020,20200225,flood,Bolivia,BOL,https://disasterscharter.org/activations/flood-large-in-bolivia-plurinational-state-of-activation-644-
+2020,20200127,landslide,Madagascar,MDG,https://disasterscharter.org/activations/flood-large-in-madagascar-activation-643-
+2020,20200123,landslide,Brazil,BRA,https://disasterscharter.org/activations/flood-flash-in-brazil-activation-642-
+2020,20200122,flood,Zambia,ZMB,https://disasterscharter.org/activations/flood-large-in-zambia-activation-640-
+2020,20200122,snow,Pakistan,PAK,https://disasterscharter.org/activations/snow-hazard-in-pakistan-activation-641-
+2020,20200113,volcano,Philippines,PHL,https://disasterscharter.org/activations/volcano-in-philippines-activation-639-
+2020,20200107,landslide,Indonesia,IDN,https://disasterscharter.org/activations/flood-flash-in-indonesia-activation-638-
+2019,20191231,cyclone,Fiji,FJI,https://disasterscharter.org/activations/flood-large-in-fiji-activation-637-
+2019,20191210,other,Chile,CHL,https://disasterscharter.org/activations/lost-aircraft-in-chile-activation-636-
+2019,20191210,landslide,Uganda,UGA,https://disasterscharter.org/activations/landslide-in-uganda-activation-635-
+2019,20191202,typhoon,Philippines,PHL,https://disasterscharter.org/activations/storm-hurricane-urban-in-philippines-activation-634-
+2019,20191125,landslide,Kenya,KEN,https://disasterscharter.org/activations/landslide-in-kenya-activation-633-
+2019,20191116,flood,Central African Republic,CAF,https://disasterscharter.org/activations/flood-large-in-central-african-republic-activation-632-
+2019,20191113,fire,Australia,AUS,https://disasterscharter.org/activations/fire-in-australia-activation-631-
+2019,20191110,cyclone,Bangladesh,BGD,https://disasterscharter.org/activations/storm-hurricane-urban-in-bangladesh-activation-630-
+2019,20191101,earthquake,Philippines,PHL,https://disasterscharter.org/activations/earthquake-in-philippines-activation-629-
+2019,20191031,flood,Kenya,KEN,https://disasterscharter.org/activations/flood-large-in-kenya-activation-628-
+2019,20191017,flood,Cameroon,CMR,https://disasterscharter.org/activations/flood-flash-in-cameroon-activation-627-
+2019,20191016,fire,Lebanon and Syria,LBN,https://disasterscharter.org/activations/fire-in-lebanon-syrian-arab-republic-activation-626-
+2019,20191011,typhoon,Japan,JPN,https://disasterscharter.org/activations/storm-hurricane-urban-in-japan-activation-625-
+2019,20190930,earthquake,Indonesia,IDN,https://disasterscharter.org/activations/earthquake-in-indonesia-activation-624-
+2019,20190930,flood,India,IND,https://disasterscharter.org/activations/flood-large-in-india-activation-623-
+2019,20190926,earthquake,Pakistan,PAK,https://disasterscharter.org/activations/earthquake-in-pakistan-activation-622-
+2019,20190920,fire,Paraguay,PRY,https://disasterscharter.org/activations/fire-in-paraguay-activation-621-
+2019,20190904,hurricane,Bahamas,BHS,https://disasterscharter.org/activations/storm-hurricane-urban-in-bahamas-activation-620-
+2019,20190902,fire,Bolivia,BOL,https://disasterscharter.org/activations/fire-in-bolivia-plurinational-state-of-activation-619-
+2019,20190829,flood,Japan,JPN,https://disasterscharter.org/activations/flood-large-in-japan-activation-618-
+2019,20190826,flood,Sudan,SDN,https://disasterscharter.org/activations/flood-large-in-sudan-activation-617-
+2019,20190821,fire,Bolivia,BOL,https://disasterscharter.org/activations/fire-in-bolivia-plurinational-state-of-activation-616-
+2019,20190815,flood,Russia,RUS,https://disasterscharter.org/activations/flood-flash-in-russian-federation-activation-615-
+2019,20190724,flood,Russia,RUS,https://disasterscharter.org/activations/flood-large-in-russian-federation-activation-614-
+2019,20190720,volcano,Peru,PER,https://disasterscharter.org/activations/volcano-in-peru-activation-613-
+2019,20190717,flood,India,IND,https://disasterscharter.org/activations/flood-large-in-india-activation-612-
+2019,20190627,flood,Russia,RUS,https://disasterscharter.org/activations/flood-large-in-russian-federation-activation-611-
+2019,20190526,earthquake,Peru,PER,https://disasterscharter.org/activations/earthquake-in-peru-activation-610-
+2019,20190517,flood,Paraguay,PRY,https://disasterscharter.org/activations/flood-in-paraguay-activation-609-
+2019,20190503,cyclone,India,IND,https://disasterscharter.org/activations/cyclone-in-india-activation-608-
+2019,20190501,landslide,Bolivia,BOL,https://disasterscharter.org/activations/landslide-in-bolivia-plurinational-state-of-activation-607-
+2019,20190425,cyclone,Mozambique,MOZ,https://disasterscharter.org/activations/cyclone-in-mozambique-activation-606-
+2019,20190425,flood,South Africa,ZAF,https://disasterscharter.org/activations/flood-in-south-africa-activation-605-
+2019,20190419,flood,Canada,CAN,https://disasterscharter.org/activations/flood-in-canada-activation-604-
+2019,20190415,flood,Iraq,IRQ,https://disasterscharter.org/activations/flood-in-iraq-activation-603-
+2019,20190405,fire,South Korea,KOR,https://disasterscharter.org/activations/fire-in-korea-republic-of-activation-602-
+2019,20190331,flood,Iran,IRN,https://disasterscharter.org/activations/flood-in-iran-islamic-republic-of-activation-601-
+2019,20190319,flood,Indonesia,IDN,https://disasterscharter.org/activations/flood-in-indonesia-activation-600-
+2019,20190316,cyclone,Zimbabwe,ZWE,https://disasterscharter.org/activations/cyclone-in-zimbabwe-activation-599-
+2019,20190314,cyclone,Mozambique,MOZ,https://disasterscharter.org/activations/cyclone-in-mozambique-activation-598-
+2019,20190208,landslide,Bolivia,BOL,https://disasterscharter.org/activations/landslide-in-bolivia-plurinational-state-of-activation-597-
+2019,20190125,dam collapse,Brazil,BRA,https://disasterscharter.org/activations/dam-collapse-in-brazil-activation-596-
+2019,20190113,flood,Brazil,BRA,https://disasterscharter.org/activations/flood-in-brazil-activation-595-
+2018,20181223,tsunami,Indonesia,IDN,https://disasterscharter.org/activations/ocean-wave-in-indonesia-activation-594-
+2018,20181217,cyclone,India,IND,https://disasterscharter.org/activations/cyclone-in-india-activation-593-
+2018,20181125,flood,Iraq,IRQ,https://disasterscharter.org/activations/flood-in-iraq-activation-592-
+2018,20181114,fire,"California, The United States",USA,https://disasterscharter.org/activations/fire-in-united-states-activation-591-
+2018,20181025,flood,Russian Federation,RUS,https://disasterscharter.org/activations/flood-in-russian-federation-activation-590-
+2018,20181012,landslide,Uganda,UGA,https://disasterscharter.org/activations/landslide-in-uganda-activation-589-
+2018,20181010,hurricane,the United States,USA,https://disasterscharter.org/activations/cyclone-in-united-states-activation-588-
+2018,20180929,earthquake,Indonesia,IDN,https://disasterscharter.org/activations/earthquake-in-indonesia-activation-587-
+2018,20180918,typhoon,Philippines,PHL,https://disasterscharter.org/activations/cyclone-in-philippines-activation-586-
+2018,20180911,hurricane,the United States,USA,https://disasterscharter.org/activations/cyclone-in-united-states-activation-585-
+2018,20180821,landslide,"Karnataka State, India",IND,https://disasterscharter.org/activations/landslide-in-india-activation-584-
+2018,20180816,flood,Vietnam,VNM,https://disasterscharter.org/activations/flood-in-viet-nam-activation-583-
+2018,20180816,flood,"Kerala State, India",IND,https://disasterscharter.org/activations/flood-in-india-activation-582-
+2018,20180815,flood,Venezuela,VEN,https://disasterscharter.org/activations/flood-in-venezuela-bolivarian-republic-of-activation-581-
+2018,20180806,earthquake,Indonesia,IDN,https://disasterscharter.org/activations/earthquake-in-indonesia-activation-580-
+2018,20180724,fire,Greece,GRC,https://disasterscharter.org/activations/fire-in-greece-activation-579-
+2018,20180724,flood,Laos,LAO,https://disasterscharter.org/activations/flood-in-lao-people-s-democratic-republic-activation-578-
+2018,20180707,flood,Japan,JPN,https://disasterscharter.org/activations/flood-in-japan-activation-577-
+2018,20180605,volcano,Guatemala,GTM,https://disasterscharter.org/activations/volcano-in-guatemala-activation-576-
+2018,20180604,fire,China,CHN,https://disasterscharter.org/activations/fire-in-china-activation-575-
+2018,20180602,cyclone,Yemen,YEM,https://disasterscharter.org/activations/cyclone-in-yemen-activation-574-
+2018,20180521,flood,Sri Lanka,LKA,https://disasterscharter.org/activations/flood-in-sri-lanka-activation-573-
+2018,20180520,flood,Djibouti,DJI,https://disasterscharter.org/activations/flood-in-djibouti-activation-572-
+2018,20180507,earthquake,the United States,USA,https://disasterscharter.org/activations/volcano-in-united-states-activation-571-
+2018,20180507,flood,Somalia,SOM,https://disasterscharter.org/activations/flood-in-somalia-activation-570-
+2018,20180404,flood,Russian Federation,RUS,https://disasterscharter.org/activations/flood-in-russian-federation-activation-569-
+2018,20180308,cyclone,New Caledonia,NCL,https://disasterscharter.org/activations/cyclone-in-new-caledonia-activation-568-
+2018,20180218,aircraft crash,Iran,IRN,https://disasterscharter.org/activations/passenger-airplane-in-iran-in-iran-islamic-republic-of-activation-567-
+2018,20180212,cyclone,Tonga,TON,https://disasterscharter.org/activations/cyclone-in-tonga-activation-566-
+2018,20180208,flood,Bolivia,BOL,https://disasterscharter.org/activations/flood-in-bolivia-plurinational-state-of-activation-565-
+2018,20180203,flood,Argentina,ARG,https://disasterscharter.org/activations/flood-in-argentina-activation-564-
+2018,20180122,volcano,Papua New Guinea,PNG,https://disasterscharter.org/activations/volcano-in-papua-new-guinea-activation-563-
+2018,20180116,volcano,Philippines,PHL,https://disasterscharter.org/activations/volcano-in-philippines-activation-562-
+2017,20171117,search and rescue,"Search and Rescue of Submarine, Argentina",ARG,https://disasterscharter.org/activations/find-and-rescue-of-submarine-at-sea-in-argentina-activation-561-
+2017,20171115,earthquake,South Korea,KOR,https://disasterscharter.org/activations/earthquake-in-korea-republic-of-activation-560-
+2017,20171113,earthquake,Iran,IRN,https://disasterscharter.org/activations/earthquake-in-iran-islamic-republic-of-activation-559-
+2017,20171112,earthquake,Iraq,IRQ,https://disasterscharter.org/activations/earthquake-in-iraq-activation-558-
+2017,20171106,typhoon,Vietnam,VNM,https://disasterscharter.org/activations/cyclone-in-viet-nam-activation-557-
+2017,20170920,earthquake,Mexico,MEX,https://disasterscharter.org/activations/earthquake-in-mexico-activation-553-
+2017,20170919,hurricane,the Dominican Republic,DMA,https://disasterscharter.org/activations/flood-in-dominican-republic-activation-556-
+2017,20170919,hurricane,Puerto Rico and U.S. Virgin Islands,PRI,https://disasterscharter.org/activations/cyclone-in-puerto-rico-activation-554-
+2017,20170919,hurricane,the Caribbean,ATG,https://disasterscharter.org/activations/cyclone-in-dominica-activation-552-
+2017,20170918,hurricane,Martinique,MTQ,https://disasterscharter.org/activations/flood-in-martinique-activation-553-
+2017,20170907,hurricane,Haiti,HTI,https://disasterscharter.org/activations/flood-in-haiti-call-630-
+2017,20170906,hurricane,the United States,USA,https://disasterscharter.org/activations/flood-in-united-states-call-629-
+2017,20170905,hurricane,the Dominican Republic,DMA,https://disasterscharter.org/activations/ocean-wave-in-dominican-republic-call-628-
+2017,20170905,hurricane,Caribbean,ATG,https://disasterscharter.org/activations/cyclone-in-anguilla-call-627-
+2017,20170824,cyclone,United States,USA,https://disasterscharter.org/activations/cyclone-in-united-states-call-626-
+2017,20170815,flood,Bangladesh,BGD,https://disasterscharter.org/activations/flood-in-bangladesh-call-625-
+2017,20170815,flood,Sierra Leone,SLE,https://disasterscharter.org/activations/flood-in-sierra-leone-call-624-
+2017,20170815,flood,Nepal,NPL,https://disasterscharter.org/activations/flood-in-nepal-call-623-
+2017,20170809,earthquake,China,CHN,https://disasterscharter.org/activations/earthquake-in-china-call-622-
+2017,20170809,earthquake,China,CHN,https://disasterscharter.org/activations/earthquake-in-china-call-621-
+2017,20170807,flood,Vietnam,VNM,https://disasterscharter.org/activations/flood-in-viet-nam-call-620-
+2017,20170725,fire,Montenegro,MNE,https://disasterscharter.org/activations/fire-in-montenegro-call-618-
+2017,20170624,landslide,China,CHN,https://disasterscharter.org/activations/landslide-in-china-call-617-
+2017,20170612,fire,South Africa,ZAF,https://disasterscharter.org/activations/fire-in-south-africa-call-615-
+2017,20170530,flood,Bangladesh,BGD,https://disasterscharter.org/activations/flood-in-bangladesh-call-613-
+2017,20170525,fire,Russia,RUS,https://disasterscharter.org/activations/fire-in-russian-federation-call-610-
+2017,20170513,flood,Chile,CHL,https://disasterscharter.org/activations/flood-in-chile-call-609-
+2017,20170506,flood,Canada,CAN,https://disasterscharter.org/activations/flood-in-canada-call-608-
+2017,20170426,other,Missing South Korean Cargo Vessel,KOR,https://disasterscharter.org/activations/other-in-brazil-call-607-
+2017,20170401,flood,Colombia,COL,https://disasterscharter.org/activations/flood-in-colombia-call-603-
+2017,20170213,earthquake,the Philippines,PHL,https://disasterscharter.org/activations/earthquake-in-philippines-call-599-
+2017,20170124,fire,Chile,CHL,https://disasterscharter.org/activations/fire-in-chile-call-598-
+2017,20170105,fire,Argentina,ARG,https://disasterscharter.org/activations/fire-in-argentina-call-597-
+2016,20160926,flood,Australia,AUS,https://disasterscharter.org/activations/flood-in-austral-2
+2016,20160813,flood,United States,USA,https://disasterscharter.org/activations/flood-in-united-stat-3
+2016,20160504,fire,Canada,CAN,https://disasterscharter.org/activations/fire-in-canada
+2016,20160419,cyclone,Seychelles,SYC,https://disasterscharter.org/activations/cyclone-in-seychelles
+2016,20160417,fire,Panama,PAN,https://disasterscharter.org/activations/fire-in-panama
+2016,20160417,earthquake,Ecuador,ECU,https://disasterscharter.org/activations/earthquake-in-ecuador
+2016,20160415,flood,Iran,IRN,https://disasterscharter.org/activations/flood-in-iran-islamic-republic-of
+2016,20160414,earthquake,Japan,JPN,https://disasterscharter.org/activations/earthquake-in-jap-1
+2016,20160311,flood,the United States,USA,https://disasterscharter.org/activations/flood-in-united-stat-1
+2016,20160219,cyclone,Fiji,FJI,https://disasterscharter.org/activations/cyclone-in-fi-1
+2016,20160206,earthquake,Taiwan,TWN,https://disasterscharter.org/activations/earthquake-in-taiwan-province-of-chi-1
+2016,20160103,flood,the United States,USA,https://disasterscharter.org/activations/flood-in-united-states
+2015,20151228,flood,Argentina,ARG,https://disasterscharter.org/activations/flood-in-argenti-3
+2015,20151207,earthquake,Tajikistan,TJK,https://disasterscharter.org/activations/earthquake-in-tajikistan
+2015,20151202,flood,India,IND,https://disasterscharter.org/activations/other-in-india
+2015,20151105,flood,Iraq,IRQ,https://disasterscharter.org/activations/flood-in-iraq
+2015,20151105,dam collapse,Brazil,BRA,https://disasterscharter.org/activations/other-in-brazil
+2015,20151103,cyclone,Yemen,YEM,https://disasterscharter.org/activations/cyclone-in-yemen
+2015,20151031,aircraft crash,Egypt,EGY,https://disasterscharter.org/activations/other-in-egypt
+2015,20151026,earthquake,Afghanistan,AFG,https://disasterscharter.org/activations/earthquake-in-afghanist-1
+2015,20151007,landslide,Guatemala,GTM,https://disasterscharter.org/activations/landslide-in-guatemala
+2015,20151006,hurricane,Bahamas,BHS,https://disasterscharter.org/activations/cyclone-in-bahamas
+2015,20150917,earthquake,Chile,CHL,https://disasterscharter.org/activations/ocean_wave-in-chile
+2015,20150907,flood,Bangladesh,BGD,https://disasterscharter.org/activations/flood-in-banglade-1
+2015,20150826,flood,Türkiye,TUR,https://disasterscharter.org/activations/flood-in-turkey
+2015,20150813,fire,Russia,RUS,https://disasterscharter.org/activations/fire-in-russian-federation
+2015,20150812,flood,Argentina,ARG,https://disasterscharter.org/activations/flood-in-argenti-2
+2015,20150809,flood,Chile,CHL,https://disasterscharter.org/activations/flood-in-chi-5
+2015,20150805,flood,Myanmar,MMR,https://disasterscharter.org/activations/flood-in-myanmar
+2015,20150730,flood,Vietnam,VNM,https://disasterscharter.org/activations/flood-in-viet-nam
+2015,20150724,volcano,Grenada,GRD,https://disasterscharter.org/activations/volcano-in-venezuela-bolivarian-republic-of
+2015,20150611,flood,Brazil,BRA,https://disasterscharter.org/activations/flood-in-braz-3
+2015,20150520,landslide,Colombia,COL,https://disasterscharter.org/activations/other-in-colombia
+2015,20150515,typhoon,Northern Mariana Islands,MNP,https://disasterscharter.org/activations/cyclone-in-northern-mariana-islands
+2015,20150425,earthquake,Nepal and India,IND,https://disasterscharter.org/activations/landslide-in-nep-2
+2015,20150425,earthquake,China,CHN,https://disasterscharter.org/activations/earthquake-in-ch-16
+2015,20150423,volcano,Chile,CHL,https://disasterscharter.org/activations/volcano-in-ch-20
+2015,20150330,landslide,India,IND,https://disasterscharter.org/activations/flood-in-india
+2015,20150325,flood,Chile,CHL,https://disasterscharter.org/activations/flood-in-chile
+2015,20150314,volcano,Costa Rica,CRI,https://disasterscharter.org/activations/volcano-in-costa-rica
+2015,20150314,fire,Chile,CHL,https://disasterscharter.org/activations/fire-in-chile
+2015,20150312,cyclone,Vanuatu,VUT,https://disasterscharter.org/activations/cyclone-in-vanuatu
+2015,20150312,oil spill,Vietnam,VNM,https://disasterscharter.org/activations/oil-spill-in-viet-nam
+2015,20150303,volcano,Chile,CHL,https://disasterscharter.org/activations/volcano-in-ch-19
+2015,20150227,flood,Brazil,BRA,https://disasterscharter.org/activations/flood-in-braz-2
+2015,20150225,flood,Bolivia,BOL,https://disasterscharter.org/activations/flood-in-bolivia-plurinational-state-of
+2015,20150220,cyclone,Australia following Cyclone Lam,AUS,https://disasterscharter.org/activations/flood-in-austral-1
+2015,20150118,flood,Madagascar,MDG,https://disasterscharter.org/activations/flood-in-madagascar
+2015,20150108,flood,Malawi,MWI,https://disasterscharter.org/activations/flood-in-malawi
+2015,20150104,storm,Malawi,MWI,https://disasterscharter.org/activations/other-in-malawi
+2014,20141229,flood,Sri Lanka,LKA,https://disasterscharter.org/activations/flood-in-sri-lanka
+2014,20141215,landslide,Indonesia,IDN,https://disasterscharter.org/activations/landslide-in-indonesia
+2014,20141204,typhoon,the Philippines,PHL,https://disasterscharter.org/activations/flood-in-philippines
+2014,20141030,landslide,Sri Lanka,LKA,https://disasterscharter.org/activations/landslide-in-sri-lanka
+2014,20141015,hurricane,Bermuda,BMU,https://disasterscharter.org/activations/cyclone-in-bermuda
+2014,20141012,cyclone,India,IND,https://disasterscharter.org/activations/cyclone-in-india
+2014,20141009,other,Senegal,SEN,https://disasterscharter.org/activations/other-in-sierra-leone
+2014,20140918,flood,France,FRA,https://disasterscharter.org/activations/flood-in-france
+2014,20140912,landslide,Pakistan,PAK,https://disasterscharter.org/activations/flood-and-landslide-in-pakistan
+2014,20140822,flood,Bangladesh,BGD,https://disasterscharter.org/activations/flood-in-bangladesh
+2014,20140818,landslide,the Republic of Panama,PAN,https://disasterscharter.org/activations/flood-and-landslide-in-the-republic-of-panama
+2014,20140818,flood,northern India,IND,https://disasterscharter.org/activations/flood-in-northern-india
+2014,20140805,flood,Sudan,SDN,https://disasterscharter.org/activations/flood-in-sudan
+2014,20140805,landslide,Nepal,NPL,https://disasterscharter.org/activations/landslide-in-nep-1
+2014,20140803,earthquake,"Yunnan, China",CHN,https://disasterscharter.org/activations/earthquake-in-yunnan-china
+2014,20140730,fire,"La Vega, Dominican Republic",DMA,https://disasterscharter.org/activations/fire-in-la-vega-dominican-republic
+2014,20140719,typhoon,China,CHN,https://disasterscharter.org/activations/typhoon-rammasun-in-china
+2014,20140718,flood,Vietnam,VNM,https://disasterscharter.org/activations/flood-in-vietnam
+2014,20140704,flood,Brazil,BRA,https://disasterscharter.org/activations/flood-in-brazil
+2014,20140614,landslide,Brazil,BRA,https://disasterscharter.org/activations/flood-and-landslide-in-brazil
+2014,20140612,flood,Argentina,ARG,https://disasterscharter.org/activations/flood-in-argentina
+2014,20140521,flood,Serbia,SRB,https://disasterscharter.org/activations/flood-in-serbia
+2014,20140429,flood,Afghanistan,AFG,https://disasterscharter.org/activations/floods-in-afghanistan
+2014,20140415,landslide,Tajikistan,TJK,https://disasterscharter.org/activations/landslide-and-mudflow-in-tajikistan
+2014,20140414,fire,"Valparaiso, Chile",CHL,https://disasterscharter.org/activations/fire-in-valparaiso-chile
+2014,20140411,cyclone,Australia,AUS,https://disasterscharter.org/activations/cyclone-ita-in-australia
+2014,20140405,flood,the Solomon Islands,SLB,https://disasterscharter.org/activations/flood-in-the-solomon-islands
+2014,20140402,tsunami,Chile,CHL,https://disasterscharter.org/activations/tsunami-in-chile
+2014,20140321,flood,north region of Brazil,BRA,https://disasterscharter.org/activations/flood-in-north-region-of-brazil
+2014,20140311,other,Missing Malaysia Airlines jet,MYS,https://disasterscharter.org/activations/missing-malaysia-airlines-jet
+2014,20140213,volcano,Indonesia,IDN,https://disasterscharter.org/activations/mount-kelud-volcanic-eruption-in-indonesia
+2014,20140212,flood,Bolivia,BOL,https://disasterscharter.org/activations/flood-in-boliv-3
+2014,20140211,landslide,Burundi,BDI,https://disasterscharter.org/activations/flood-and-landslide-in-burundi
+2014,20140210,snow,South Korea,KOR,https://disasterscharter.org/activations/snowfall-in-south-korea
+2014,20140207,flood,Zimbabwe,ZWE,https://disasterscharter.org/activations/floods-in-zimbabwe
+2014,20140206,flood,south-west England,GBR,https://disasterscharter.org/activations/flood-in-south-west-engla-1
+2014,20140205,wildfire,"Mt. Japfu, India",IND,https://disasterscharter.org/activations/forest-fire-in-mt-japfu-india
+2014,20140121,flood,"Huancavelica, Peru",PER,https://disasterscharter.org/activations/flood-in-huancavelica-peru
+2014,20140107,volcano,Indonesia,IDN,https://disasterscharter.org/activations/volcano-in-indones-2
+2014,20140106,flood,"England, UK",GBR,https://disasterscharter.org/activations/flood-in-england-uk
+2014,20140101,cyclone,Réunion,REU,https://disasterscharter.org/activations/cyclone-in-la-r-union-island
+2013,20131217,flood,Gaza,PSE,https://disasterscharter.org/activations/flood-storm-in-gaza
+2013,20131204,flood,United Kingdom,GBR,https://disasterscharter.org/activations/flood-in-united-kingdom
+2013,20131122,flood,Oman,OMN,https://disasterscharter.org/activations/flood-in-oman
+2013,20131110,storm,Vietnam,VNM,https://disasterscharter.org/activations/tropical-storm-haiyan-in-vietn-2
+2013,20131108,typhoon,the Philippines,PHL,https://disasterscharter.org/activations/typhoon-haiyan-in-the-philippin-5
+2013,20131105,volcano,Indonesia,IDN,https://disasterscharter.org/activations/volcano-in-indones-1
+2013,20131021,flood,Cambodia,KHM,https://disasterscharter.org/activations/flood-in-cambod-4
+2013,20131019,flood,Vietnam,VNM,https://disasterscharter.org/activations/flood-in-vietn-4
+2013,20131018,typhoon,Vietnam,VNM,https://disasterscharter.org/activations/typhoon-nari-in-vietnam
+2013,20131017,fire,Australia,AUS,https://disasterscharter.org/activations/fires-in-austral-1
+2013,20131016,landslide,"Landslide on Izu Oshima Island, Japan",JPN,https://disasterscharter.org/activations/landslide-on-izu-oshima-island-jap-1
+2013,20131015,earthquake,"Bohol Island, Philippines",PHL,https://disasterscharter.org/activations/earthquake-in-bohol-island-philippines
+2013,20131012,cyclone,India,IND,https://disasterscharter.org/activations/cyclone-phailin-in-india
+2013,20130924,earthquake,Pakistan,PAK,https://disasterscharter.org/activations/earthquake-in-pakis-54
+2013,20130919,volcano,"Moquegua, Peru",PER,https://disasterscharter.org/activations/ubinas-volcano-in-moquegua-peru
+2013,20130913,flood,"Colorado, USA",USA,https://disasterscharter.org/activations/flood-in-colorado-usa
+2013,20130910,fire,"Cordoba, Argentina",ARG,https://disasterscharter.org/activations/fire-in-cordoba-argentina
+2013,20130825,flood,Senegal,SEN,https://disasterscharter.org/activations/flood-in-seneg-1
+2013,20130822,flood,Pakistan,PAK,https://disasterscharter.org/activations/flood-in-pakist-8
+2013,20130819,flood,Russian Federation,RUS,https://disasterscharter.org/activations/flood-in-russian-federation
+2013,20130819,landslide,"Manila, the Philippines",PHL,https://disasterscharter.org/activations/flood-landslide-and-storm-in-manila-the-philippines
+2013,20130816,flood,northeast China,CHN,https://disasterscharter.org/activations/floods-in-northeast-china
+2013,20130806,flood,Sudan,SDN,https://disasterscharter.org/activations/floods-in-sudan-khartoum-state-
+2013,20130802,flood,Myanmar,MMR,https://disasterscharter.org/activations/floods-in-myanm-1
+2013,20130729,flood,Japan,JPN,https://disasterscharter.org/activations/floods-in-japan
+2013,20130725,flood,"Chanthaburi Province, Thailand",THA,https://disasterscharter.org/activations/floods-in-chanthaburi-province-thaila-1
+2013,20130722,earthquake,"Gansu, China",CHN,https://disasterscharter.org/activations/earthquakes-in-gansu-china
+2013,20130708,fire,"Lac-Mégantic, Canada",CAN,https://disasterscharter.org/activations/petroleum-oil-fire-in-lac-m-gantic-canada
+2013,20130628,flood,Argentina,ARG,https://disasterscharter.org/activations/flood-in-argenti-1
+2013,20130619,flood,"Uttarakhand, India",IND,https://disasterscharter.org/activations/floods-in-uttarakhand-india
+2013,20130602,flood,Germany,DEU,https://disasterscharter.org/activations/floods-in-germany
+2013,20130527,volcano,Chile and Argentina,ARG,https://disasterscharter.org/activations/copahue-volcano-in-chile-and-argentina
+2013,20130515,cyclone,Bangladesh and Myanmar,BGD,https://disasterscharter.org/activations/tropical-cyclone-mahasen-in-bangladesh-and-myanmar
+2013,20130420,earthquake,China,CHN,https://disasterscharter.org/activations/earthquake-in-ch-15
+2013,20130223,cyclone,Madagascar,MDG,https://disasterscharter.org/activations/cyclone-haruna-in-madagascar
+2013,20130206,earthquake,Earthquake/Tsunami off Solomon Islands,SLB,https://disasterscharter.org/activations/earthquake-tsunami-off-solomon-islands
+2013,20130201,flood,Seychelles,SYC,https://disasterscharter.org/activations/flood-in-seychelles
+2013,20130130,flood,Indonesia,IDN,https://disasterscharter.org/activations/flood-in-indonesia
+2013,20130121,flood,Mozambique,MOZ,https://disasterscharter.org/activations/floods-in-mozambi-16
+2013,20130110,flood,Israel,ISR,https://disasterscharter.org/activations/floods-in-israel
+2012,20121221,flood,England,GBR,https://disasterscharter.org/activations/flood-in-engla-1
+2012,20121218,cyclone,Fiji,FJI,https://disasterscharter.org/activations/tropical-cyclone-evan-in-fiji
+2012,20121216,cyclone,Wallis and Futuna,WLF,https://disasterscharter.org/activations/tropical-cyclone-evan-in-wallis-and-futuna-islands
+2012,20121215,cyclone,Samoa,WSM,https://disasterscharter.org/activations/tropical-cyclone-evan-in-samoa
+2012,20121205,cyclone,Philippines,PHL,https://disasterscharter.org/activations/cyclone-in-philippines
+2012,20121205,typhoon,Southern Philippines,PHL,https://disasterscharter.org/activations/super-typhoon-in-southern-philippines
+2012,20121203,storm,Palau,PLW,https://disasterscharter.org/activations/ocean-storm-palau
+2012,20121127,flood,England,GBR,https://disasterscharter.org/activations/flood-in-england
+2012,20121108,earthquake,Guatemala,GTM,https://disasterscharter.org/activations/earthquake-guatemala
+2012,20121101,storm,United States,USA,https://disasterscharter.org/activations/ocean-storm-state-of-new-york-and-new-jersey
+2012,20121029,hurricane,Haiti,HTI,https://disasterscharter.org/activations/hurricane-sandy-in-haiti
+2012,20121010,flood,Chad,TCD,https://disasterscharter.org/activations/flood-in-chad
+2012,20121010,flood,West Africa / Nigeria,NER,https://disasterscharter.org/activations/flood-in-west-africa-nigeria-bayelsa-state-
+2012,20120925,flood,west Africa / Nigeria,NER,https://disasterscharter.org/activations/flood-in-west-africa-nigeria-lokoja-
+2012,20120924,flood,South Sudan,SSD,https://disasterscharter.org/activations/flood-in-south-sudan
+2012,20120918,flood,Pakistan,PAK,https://disasterscharter.org/activations/flood-in-pakist-4
+2012,20120916,fire,Ecuador,ECU,https://disasterscharter.org/activations/fires-in-ecuador
+2012,20120915,landslide,India,IND,https://disasterscharter.org/activations/floods-landslides-in-india
+2012,20120907,earthquake,southern China,CHN,https://disasterscharter.org/activations/earthquake-in-southern-china
+2012,20120906,flood,North province of Cameroon,CMR,https://disasterscharter.org/activations/extreme-floods-in-north-province-of-cameroon
+2012,20120831,storm,United States,USA,https://disasterscharter.org/activations/ocean-storm-gulf-coast-of-the-us
+2012,20120829,flood,West Africa / Nigeria,NER,https://disasterscharter.org/activations/flood-in-west-africa-nigeria
+2012,20120828,flood,Niger,NER,https://disasterscharter.org/activations/flooding-in-niger
+2012,20120827,flood,Senegal,SEN,https://disasterscharter.org/activations/flooding-in-senegal
+2012,20120822,flood,Russia,RUS,https://disasterscharter.org/activations/flooding-in-russia-black-sea-region-
+2012,20120815,earthquake,Iran,IRN,https://disasterscharter.org/activations/earthquake-in-i-11
+2012,20120813,fire,North Algeria,DZA,https://disasterscharter.org/activations/fires-in-north-algeria
+2012,20120808,flood,Philippines,PHL,https://disasterscharter.org/activations/floods-in-philippines
+2012,20120710,flood,Russia,RUS,https://disasterscharter.org/activations/floods-in-russia-city-of-krymsk-
+2012,20120629,flood,"Assam State, India",IND,https://disasterscharter.org/activations/flood-in-assam-state-india
+2012,20120624,flood,Canada,CAN,https://disasterscharter.org/activations/floods-in-canada
+2012,20120521,volcano,Guatemala,GTM,https://disasterscharter.org/activations/eruption-of-lava-from-fuego-volcano-in-guatemala
+2012,20120512,flood,"Minxian County in northwest China, Gansu Province",CHN,https://disasterscharter.org/activations/flood-in-minxian-county-in-northwest-china-gansu-province
+2012,20120430,flood,Paraguay,PRY,https://disasterscharter.org/activations/floods-in-paraguay
+2012,20120331,flood,Fiji,FJI,https://disasterscharter.org/activations/flooding-in-fiji
+2012,20120310,landslide,Ecuador,ECU,https://disasterscharter.org/activations/floods-and-landslides-in-ecuador
+2012,20120301,flood,Madagascar,MDG,https://disasterscharter.org/activations/flood-and-ocean-storm-in-madagascar
+2012,20120226,flood,"Algeria, El Tarf",DZA,https://disasterscharter.org/activations/floods-in-algeria-el-tarf
+2012,20120221,flood,Peru,PER,https://disasterscharter.org/activations/flood-in-pe-5
+2012,20120213,cyclone,"Cyclone Giovanna, Madagascar",MDG,https://disasterscharter.org/activations/cyclone-giovanna-madagascar
+2012,20120107,flood,Brazil - Belo Horizonte - Campos dos Goitacazes,BRA,https://disasterscharter.org/activations/floods-in-brazil-belo-horizonte-campos-dos-goitacazes
+2011,20111230,fire,"Torres del Paine, Chile",CHL,https://disasterscharter.org/activations/fire-in-torres-del-paine-chile
+2011,20111219,landslide,Philippines,PHL,https://disasterscharter.org/activations/floods-landslides-in-philippines
+2011,20111028,flood,Ghana,GHA,https://disasterscharter.org/activations/flood-in-ghana
+2011,20111027,volcano,Chile,CHL,https://disasterscharter.org/activations/volcano-in-ch-18
+2011,20111024,earthquake,Türkiye,TUR,https://disasterscharter.org/activations/earthquake-in-turk-3
+2011,20111019,flood,El Salvador,SLV,https://disasterscharter.org/activations/flood-in-el-salvador
+2011,20111017,flood,Vietnam,VNM,https://disasterscharter.org/activations/floods-in-viet-10
+2011,20111017,flood,Thailand,THA,https://disasterscharter.org/activations/flood-in-thailand
+2011,20111012,oil spill,"Oil spill, New Zealand",NZL,https://disasterscharter.org/activations/oil-spill-new-zealand
+2011,20111012,flood,Cambodia,KHM,https://disasterscharter.org/activations/flood-in-cambodia
+2011,20111005,flood,El Bayadh,DZA,https://disasterscharter.org/activations/flood-in-el-bayadh-algeria-
+2011,20110918,earthquake,"Earthquake, Landslide, Sikkim - North East India",IND,https://disasterscharter.org/activations/earthquake-landslide-sikkim-north-east-india
+2011,20110904,landslide,Japan,JPN,https://disasterscharter.org/activations/flood-and-landslide-in-jap-1
+2011,20110829,flood,Nigeria,NGA,https://disasterscharter.org/activations/flood-in-nigeria
+2011,20110827,storm,Ocean Storm East Coast USA,USA,https://disasterscharter.org/activations/ocean-storm-east-coast-usa
+2011,20110730,flood,"Niigata, Japan",JPN,https://disasterscharter.org/activations/flood-in-niigata-japan
+2011,20110728,landslide,"Seoul and Chuncheon, South Korea",KOR,https://disasterscharter.org/activations/landslide-in-seoul-and-chuncheon-rep-of-korea
+2011,20110607,volcano,Chile and Argentina,ARG,https://disasterscharter.org/activations/puyehue-volcano-in-chile-and-argentina
+2011,20110521,flood,Colombia,COL,https://disasterscharter.org/activations/flood-in-colombia
+2011,20110515,fire,"the Province of Alberta, Canada",CAN,https://disasterscharter.org/activations/fire-in-the-province-of-alberta-canada
+2011,20110428,flood,"Central Midwest, USA",USA,https://disasterscharter.org/activations/flood-in-central-midwest-usa
+2011,20110412,fire,Mexico,MEX,https://disasterscharter.org/activations/fire-in-mexico
+2011,20110401,flood,Namibia,NAM,https://disasterscharter.org/activations/flood-in-namib-2
+2011,20110311,earthquake,Japan,JPN,https://disasterscharter.org/activations/earthquake-in-japan
+2011,20110222,earthquake,New Zealand,NZL,https://disasterscharter.org/activations/earthquake-in-new-zealand
+2011,20110214,landslide,Türkiye,TUR,https://disasterscharter.org/activations/landslides-in-turkey
+2011,20110214,snow,South Korea,KOR,https://disasterscharter.org/activations/snow-hazard-in-rep-of-korea
+2011,20110202,cyclone,Australia,AUS,https://disasterscharter.org/activations/cyclone-in-australia
+2011,20110129,flood,Mozambique,MOZ,https://disasterscharter.org/activations/flood-in-mozambiq-2
+2011,20110119,earthquake,Pakistan,PAK,https://disasterscharter.org/activations/earthquake-in-pakis-46
+2011,20110114,flood,Brazil,BRA,https://disasterscharter.org/activations/flooding-in-braz-1
+2011,20110103,flood,Australia,AUS,https://disasterscharter.org/activations/flood-in-australia
+2010,20101209,flood,Panama,PAN,https://disasterscharter.org/activations/flood-in-panama
+2010,20101206,flood,Colombia,COL,https://disasterscharter.org/activations/floods-in-colombia
+2010,20101202,wildfire,Israel,ISR,https://disasterscharter.org/activations/forest-fire-in-isra-8
+2010,20101201,landslide,"Vargas y Sucre, Venezuela",VEN,https://disasterscharter.org/activations/flood-and-landslide-in-vargas-y-sucre-venezuela
+2010,20101119,flood,Colombia,COL,https://disasterscharter.org/activations/flood-in-colomb-1
+2010,20101105,storm,Haiti,HTI,https://disasterscharter.org/activations/ocean-storm-in-haiti
+2010,20101103,volcano,Indonesia,IDN,https://disasterscharter.org/activations/volcano-in-indonesia
+2010,20101030,flood,Thailand,THA,https://disasterscharter.org/activations/flood-in-thaila-4
+2010,20101028,tsunami,"Sumatra, Indonesia",IDN,https://disasterscharter.org/activations/tsunami-in-sumatra-indonesia
+2010,20101022,flood,Myanmar,MMR,https://disasterscharter.org/activations/floods-in-myanmar
+2010,20101020,typhoon,the Philippines,PHL,https://disasterscharter.org/activations/typhoon-megi-in-the-philippines
+2010,20101012,flood,Cotonou Benin,BEN,https://disasterscharter.org/activations/flood-in-cotonou-ben-4
+2010,20101007,flood,Vietnam,VNM,https://disasterscharter.org/activations/floods-in-vietn-9
+2010,20100924,flood,"Newfoundland, Canada",CAN,https://disasterscharter.org/activations/flood-in-newfoundland-cana-1
+2010,20100924,flood,"Wisconsin, USA",USA,https://disasterscharter.org/activations/flood-in-wisconsin-usa
+2010,20100922,flood,Slovenia,SVN,https://disasterscharter.org/activations/flood-in-sloven-6
+2010,20100922,hurricane,"Hurricane Karl, Mexico",MEX,https://disasterscharter.org/activations/hurricane-karl-mexico
+2010,20100920,hurricane,Bermuda,BMU,https://disasterscharter.org/activations/hurricane-in-bermuda
+2010,20100917,flood,"Bihar State, India",IND,https://disasterscharter.org/activations/flood-in-bihar-state-ind-1
+2010,20100914,flood,South Sudan,SSD,https://disasterscharter.org/activations/flooding-in-south-sudan
+2010,20100909,flood,Nigeria,NGA,https://disasterscharter.org/activations/flooding-in-niger-1
+2010,20100818,other,China,CHN,https://disasterscharter.org/activations/debris-flow-in-china
+2010,20100814,other,China,CHN,https://disasterscharter.org/activations/debris-flow-in-ch-10
+2010,20100809,landslide,China,CHN,https://disasterscharter.org/activations/landslide-in-chi-2
+2010,20100809,flood,Czech Republic,CZE,https://disasterscharter.org/activations/floods-in-czech-republ-2
+2010,20100801,flood,Pakistan,PAK,https://disasterscharter.org/activations/flooding-in-pakis-33
+2010,20100719,flood,South China,CHN,https://disasterscharter.org/activations/flood-in-south-china
+2010,20100622,flood,Canada,CAN,https://disasterscharter.org/activations/flood-in-canada
+2010,20100621,flood,China,CHN,https://disasterscharter.org/activations/flood-in-chi-4
+2010,20100617,landslide,Myanmar,MMR,https://disasterscharter.org/activations/flood-and-landslide-in-myanmar
+2010,20100607,cyclone,Pakistan,PAK,https://disasterscharter.org/activations/tropical-cyclone-sindh-coast-of-karac-4
+2010,20100530,storm,Guatemala,GTM,https://disasterscharter.org/activations/ocean-storm-in-guatemala
+2010,20100512,flood,Pakistan,PAK,https://disasterscharter.org/activations/flood-in-pakist-3
+2010,20100501,flood,Kenya,KEN,https://disasterscharter.org/activations/flood-in-ken-2
+2010,20100422,oil spill,the Gulf of Mexico,MEX,https://disasterscharter.org/activations/oil-spill-in-the-gulf-of-mex-16
+2010,20100420,volcano,Iceland,ISL,https://disasterscharter.org/activations/volcanic-eruption-in-icela-6
+2010,20100414,earthquake,China,CHN,https://disasterscharter.org/activations/earthquake-in-ch-14
+2010,20100318,storm,Madagascar,MDG,https://disasterscharter.org/activations/ocean-storm-in-madagasc-1
+2010,20100317,hurricane,Wallis and Futuna,WLF,https://disasterscharter.org/activations/hurricane-over-wallis-and-futu-2
+2010,20100308,earthquake,Türkiye,TUR,https://disasterscharter.org/activations/earthquake-in-turk-2
+2010,20100303,landslide,Uganda,UGA,https://disasterscharter.org/activations/landslide-in-uganda
+2010,20100227,earthquake,Chile,CHL,https://disasterscharter.org/activations/earthquake-and-tsunami-in-chile
+2010,20100225,other,"Potential collapse of a tailing pit dam, Ukraine",UKR,https://disasterscharter.org/activations/potential-collapse-of-a-tailing-pit-dam-ukraine
+2010,20100215,cyclone,Tropical Cyclone on Kingdom of Tonga,TON,https://disasterscharter.org/activations/tropical-cyclone-on-kingdom-of-tonga
+2010,20100211,cyclone,Fiji,FJI,https://disasterscharter.org/activations/cyclone-on-pacific-islan-9
+2010,20100128,flood,Peru,PER,https://disasterscharter.org/activations/flood-in-peru
+2010,20100126,flood,Bolivia,BOL,https://disasterscharter.org/activations/flood-in-boliv-2
+2010,20100121,flood,the Gaza Strip,PSE,https://disasterscharter.org/activations/-
+2010,20100113,earthquake,Haiti,HTI,https://disasterscharter.org/activations/earthquake-in-ha-12
+2010,20100107,flood,Albania,ALB,https://disasterscharter.org/activations/flood-in-alban-3
+2010,20100105,earthquake,Solomon Islands,SLB,https://disasterscharter.org/activations/earthquake-in-solomon-islands
+2010,20100104,snow,China,CHN,https://disasterscharter.org/activations/snow-disaster-in-china
+2009,20091228,earthquake,Malawi,MWI,https://disasterscharter.org/activations/earthquake-in-malawi
+2009,20091214,cyclone,Fiji,FJI,https://disasterscharter.org/activations/cyclone-in-fiji
+2009,20091126,flood,Uruguay,URY,https://disasterscharter.org/activations/flood-in-uruguay
+2009,20091116,flood,British Virgin Islands,VGB,https://disasterscharter.org/activations/flood-in-british-virgin-islands
+2009,20091110,flood,El Salvador,SLV,https://disasterscharter.org/activations/flood-and-ocean-storm-in-el-salvad-5
+2009,20091023,volcano,Colombia,COL,https://disasterscharter.org/activations/volcanic-eruption-in-colombia
+2009,20091005,storm,southern Laos,LAO,https://disasterscharter.org/activations/ocean-storm-in-southern-laos
+2009,20091002,storm,the Philippines,PHL,https://disasterscharter.org/activations/ocean-storm-in-the-philippines
+2009,20090930,earthquake,Indonesia,IDN,https://disasterscharter.org/activations/earthquake-in-indone-16
+2009,20090930,tsunami,Samoa Islands,WSM,https://disasterscharter.org/activations/tsunami-in-samoa-islan-9
+2009,20090929,storm,Vietnam,VNM,https://disasterscharter.org/activations/ocean-storm-in-vietnam
+2009,20090928,cyclone,the Philippines,PHL,https://disasterscharter.org/activations/tropical-cyclone-in-the-philippin-1
+2009,20090922,flood,"Georgia, USA",GEO,https://disasterscharter.org/activations/flooding-in-georgia-usa
+2009,20090916,earthquake,Indonesia,IDN,https://disasterscharter.org/activations/earthquake-in-indone-17
+2009,20090910,flood,Türkiye,TUR,https://disasterscharter.org/activations/floods-in-turk-2
+2009,20090907,flood,Mauritania,MRT,https://disasterscharter.org/activations/flood-in-mauritania
+2009,20090907,landslide,Chile,CHL,https://disasterscharter.org/activations/landslide-in-chile
+2009,20090903,flood,Burkina Faso,BFA,https://disasterscharter.org/activations/floods-in-burkina-fa-1
+2009,20090902,flood,Senegal and Mauritania,SEN,https://disasterscharter.org/activations/floods-in-senegal-and-mauritan-2
+2009,20090830,wildfire,Argentina,ARG,https://disasterscharter.org/activations/wildfires-in-argenti-4
+2009,20090823,fire,Greece,GRC,https://disasterscharter.org/activations/fires-in-gre-10
+2009,20090810,storm,Taiwan,TWN,https://disasterscharter.org/activations/ocean-storm-in-taiw-3
+2009,20090805,fire,Canary Islands,ESP,https://disasterscharter.org/activations/fires-in-canary-islan-1
+2009,20090710,flood,Benin,BEN,https://disasterscharter.org/activations/flooding-in-benin
+2009,20090706,flood,Vietnam,VNM,https://disasterscharter.org/activations/flood-in-vietn-3
+2009,20090608,earthquake,Saudi Arabia,SAU,https://disasterscharter.org/activations/earthquake-in-saudi-arabia
+2009,20090527,flood,Bangladesh,BGD,https://disasterscharter.org/activations/ocean-storm-and-flood-in-banglade-9
+2009,20090519,flood,Afghanistan,AFG,https://disasterscharter.org/activations/flood-in-afghanist-8
+2009,20090514,landslide,Tajikistan,TJK,https://disasterscharter.org/activations/landslide-in-tajikist-1
+2009,20090511,flood,Angola,AGO,https://disasterscharter.org/activations/floods-in-ango-4
+2009,20090407,volcano,Chile,CHL,https://disasterscharter.org/activations/volcano-in-ch-17
+2009,20090326,landslide,Peru,PER,https://disasterscharter.org/activations/floods-and-landslide-in-peru
+2009,20090325,flood,"North Dakota, USA",USA,https://disasterscharter.org/activations/flood-in-north-dakota-u-1
+2009,20090320,flood,Namibia,NAM,https://disasterscharter.org/activations/flood-in-namibia
+2009,20090311,flood,"Indiana, USA",IND,https://disasterscharter.org/activations/flooding-in-indiana-12
+2009,20090227,flood,Northern Namibia,NAM,https://disasterscharter.org/activations/flood-in-northern-namib-4
+2009,20090224,volcano,Chile,CHL,https://disasterscharter.org/activations/volcano-in-ch-14
+2009,20090212,fire,Australia,AUS,https://disasterscharter.org/activations/fires-in-australia
+2009,20090210,landslide,Argentina,ARG,https://disasterscharter.org/activations/floods-and-landslides-in-argentina
+2009,20090209,flood,Morocco,MAR,https://disasterscharter.org/activations/flood-in-morocco
+2009,20090124,hurricane,South West France,FRA,https://disasterscharter.org/activations/hurricane-in-south-west-fran-3
+2009,20090109,flood,"Western Washington, USA",USA,https://disasterscharter.org/activations/flood-in-western-washington-usa
+2009,20090108,earthquake,Costa Rica,CRI,https://disasterscharter.org/activations/earthquake-and-landslide-in-costa-rica
+2008,20081211,flood,Colombia,COL,https://disasterscharter.org/activations/floods-in-colomb-1
+2008,20081127,flood,Brazil,BRA,https://disasterscharter.org/activations/flood-in-braz-1
+2008,20081126,cyclone,Sri Lanka,LKA,https://disasterscharter.org/activations/floods-and-cyclone-in-sri-lan-1
+2008,20081115,landslide,Kenya,KEN,https://disasterscharter.org/activations/floods-and-landslides-in-kenya
+2008,20081105,flood,Vietnam,VNM,https://disasterscharter.org/activations/flood-in-vietn-2
+2008,20081103,earthquake,Pakistan,PAK,https://disasterscharter.org/activations/earthquake-in-pakis-48
+2008,20081028,flood,Yemen,YEM,https://disasterscharter.org/activations/flood-in-yem-3
+2008,20081027,flood,Honduras,HND,https://disasterscharter.org/activations/flood-in-hondur-1
+2008,20081015,hurricane,"Hurricane on Guadeloupe, Saint Martin and Saint- Barthélemy islands",GLP,https://disasterscharter.org/activations/hurricane-on-guadeloupe-saint-martin-and-saint-barth-lemy-islan-4
+2008,20081004,flood,Algeria,DZA,https://disasterscharter.org/activations/floods-in-algeria
+2008,20080912,hurricane,"Texas, United States",USA,https://disasterscharter.org/activations/hurricane-in-texas-united-states
+2008,20080905,storm,United States,USA,https://disasterscharter.org/activations/storm-in-united-states-activation-189-
+2008,20080901,hurricane,"Louisiana, USA",USA,https://disasterscharter.org/activations/hurricane-in-louisiana-usa
+2008,20080830,hurricane,Haiti,HTI,https://disasterscharter.org/activations/hurricanes-in-haiti
+2008,20080829,flood,Nepal,NPL,https://disasterscharter.org/activations/floods-in-nep-4
+2008,20080829,hurricane,Jamaica,JAM,https://disasterscharter.org/activations/hurricane-in-jamaica
+2008,20080815,flood,Vietnam,VNM,https://disasterscharter.org/activations/floods-in-vietn-4
+2008,20080806,flood,Pakistan,PAK,https://disasterscharter.org/activations/floods-in-pakist-8
+2008,20080731,flood,Togo,TGO,https://disasterscharter.org/activations/floods-in-to-3
+2008,20080729,volcano,Volcanic eruption on the island of Montserrat,MSR,https://disasterscharter.org/activations/volcanic-eruption-on-the-island-of-montserr-5
+2008,20080728,flood,Romania and Ukraine,OMN,https://disasterscharter.org/activations/floods-in-romania-and-ukrai-2
+2008,20080723,hurricane,"Southern Texas, USA",USA,https://disasterscharter.org/activations/hurricane-in-southern-texas-usa
+2008,20080723,earthquake,"Hirono, Japan",JPN,https://disasterscharter.org/activations/earthquake-in-hirono-jap-1
+2008,20080612,flood,"Iowa, USA",USA,https://disasterscharter.org/activations/floods-in-iowa-usa
+2008,20080610,flood,"Indiana, USA",IND,https://disasterscharter.org/activations/floods-in-indiana-usa
+2008,20080610,flood,"Wisconsin, USA",USA,https://disasterscharter.org/activations/floods-in-wisconsin-usa
+2008,20080523,flood,Chile,CHL,https://disasterscharter.org/activations/flooding-in-ch-14
+2008,20080512,earthquake,China,CHN,https://disasterscharter.org/activations/earthquake-in-ch-13
+2008,20080504,cyclone,Myanmar,MMR,https://disasterscharter.org/activations/cyclone-in-myanm-3
+2008,20080502,volcano,Southern Chile,CHL,https://disasterscharter.org/activations/volcano-in-southern-chile
+2008,20080430,flood,Canada,CAN,https://disasterscharter.org/activations/flooding-in-cana-4
+2008,20080417,fire,Argentina,ARG,https://disasterscharter.org/activations/fires-in-argentina
+2008,20080320,flood,the United States,USA,https://disasterscharter.org/activations/flooding-in-the-united-stat-1
+2008,20080314,flood,Namibia and Angola,AGO,https://disasterscharter.org/activations/flooding-in-namibia-and-ang-17
+2008,20080306,wildfire,Chile,CHL,https://disasterscharter.org/activations/forest-fires-in-chile
+2008,20080226,flood,Ecuador,ECU,https://disasterscharter.org/activations/flooding-in-ecuad-6
+2008,20080208,tornado,South-eastern United States,USA,https://disasterscharter.org/activations/tornadoes-in-south-eastern-united-states
+2008,20080205,earthquake,Rwanda,RWA,https://disasterscharter.org/activations/earthquake-in-rwanda
+2008,20080125,flood,Bolivia,BOL,https://disasterscharter.org/activations/flooding-in-boli-21
+2008,20080122,volcano,Ecuador,ECU,https://disasterscharter.org/activations/volcanic-eruption-in-ecuador
+2008,20080110,flood,South Africa,ZAF,https://disasterscharter.org/activations/floods-in-southern-africa
+2007,20071212,oil spill,United Kingdom,GBR,https://disasterscharter.org/activations/oil-spill-in-the-north-s-4
+2007,20071122,earthquake,Chile,CHL,https://disasterscharter.org/activations/earthquake-in-chile
+2007,20071116,cyclone,Bangladesh,BGD,https://disasterscharter.org/activations/floods-and-cyclone-in-banglade-2
+2007,20071115,flood,Vietnam,VNM,https://disasterscharter.org/activations/flooding-in-vietn-7
+2007,20071102,flood,Mexico,MEX,https://disasterscharter.org/activations/flooding-in-mexi-5
+2007,20071030,hurricane,the Dominican Republic,DMA,https://disasterscharter.org/activations/flooding-and-hurricane-in-the-dominican-republ-8
+2007,20071023,fire,"Southern California, USA",USA,https://disasterscharter.org/activations/fires-in-southern-california-16
+2007,20071003,typhoon,Vietnam,VNM,https://disasterscharter.org/activations/typhoon-in-vietn-4
+2007,20070921,typhoon,North Korea,PRK,https://disasterscharter.org/activations/floods-and-typhoon-in-north-korea
+2007,20070919,landslide,Slovenia,SVN,https://disasterscharter.org/activations/floods-and-landslides-in-slovenia
+2007,20070914,flood,Senegal,SEN,https://disasterscharter.org/activations/flooding-in-west-afri-1
+2007,20070904,hurricane,Nicaragua,NIC,https://disasterscharter.org/activations/hurricane-in-nicaragua
+2007,20070829,fire,Greece,GRC,https://disasterscharter.org/activations/fires-in-gre-11
+2007,20070827,fire,Paraguay,PRY,https://disasterscharter.org/activations/fires-in-paragu-9
+2007,20070821,hurricane,Mexico,MEX,https://disasterscharter.org/activations/hurricane-in-mex-10
+2007,20070817,flood,North Korea,PRK,https://disasterscharter.org/activations/flooding-in-north-korea
+2007,20070816,earthquake,Peru,PER,https://disasterscharter.org/activations/earthquake-in-pe-1
+2007,20070807,flood,Vietnam,VNM,https://disasterscharter.org/activations/flooding-in-vietn-3
+2007,20070806,flood,India,IND,https://disasterscharter.org/activations/flooding-in-india
+2007,20070802,wildfire,"Forest fires on the Canary Islands, Spain",ESP,https://disasterscharter.org/activations/forest-fires-on-the-canary-islands-spain
+2007,20070724,flood,the U.K.,GBR,https://disasterscharter.org/activations/flooding-in-the-u-k-
+2007,20070719,flood,China,CHN,https://disasterscharter.org/activations/flooding-in-ch-15
+2007,20070713,flood,China,CHN,https://disasterscharter.org/activations/flooding-in-ch-16
+2007,20070702,flood,Pakistan,PAK,https://disasterscharter.org/activations/flooding-in-pakistan
+2007,20070628,flood,United Kingdom,GBR,https://disasterscharter.org/activations/flooding-in-the-2
+2007,20070601,oil spill,Chile,CHL,https://disasterscharter.org/activations/oil-spill-in-chile
+2007,20070508,flood,Uruguay,URY,https://disasterscharter.org/activations/flooding-in-urug-21
+2007,20070426,earthquake,Chile,CHL,https://disasterscharter.org/activations/earthquake-landslides-exceptional-waves-in-chile
+2007,20070420,volcano,Colombia,COL,https://disasterscharter.org/activations/volcanic-eruption-in-colomb-1
+2007,20070419,other,Canada,CAN,https://disasterscharter.org/activations/ice-jam-off-the-coast-of-newfoundla-3
+2007,20070417,flood,the United States,USA,https://disasterscharter.org/activations/flooding-in-the-united-states
+2007,20070403,earthquake,Afghanistan,AFG,https://disasterscharter.org/activations/earthquake-in-afghanistan
+2007,20070403,flood,Afghanistan,AFG,https://disasterscharter.org/activations/flooding-in-afghanistan
+2007,20070403,earthquake,the Solomon Islands,SLB,https://disasterscharter.org/activations/earthquake-tsunami-in-the-solomon-isla-10
+2007,20070330,landslide,Argentina,ARG,https://disasterscharter.org/activations/flooding-landslides-in-argentina
+2007,20070323,cyclone,Madagascar,MDG,https://disasterscharter.org/activations/cyclone-in-madagasc-3
+2007,20070306,earthquake,Indonesia,IDN,https://disasterscharter.org/activations/earthquake-in-indones-7
+2007,20070223,flood,Bolivia,BOL,https://disasterscharter.org/activations/floods-in-bolivia
+2007,20070219,volcano,Colombia,COL,https://disasterscharter.org/activations/volcano-in-colomb-1
+2007,20070208,flood,Mozambique,MOZ,https://disasterscharter.org/activations/floods-in-mozambi-15
+2007,20070122,oil spill,United Kingdom,GBR,https://disasterscharter.org/activations/oil-spill-in-lyme-bay
+2007,20070119,flood,Bolivia-Paraguay-Argentina,ARG,https://disasterscharter.org/activations/floods-in-bolivia-paraguay-argent-20
+2007,20070117,flood,Argentina,ARG,https://disasterscharter.org/activations/floods-in-argenti-2
+2006,20061227,flood,Indonesia,IDN,https://disasterscharter.org/activations/floods-in-indones-2
+2006,20061201,typhoon,the Philippines,PHL,https://disasterscharter.org/activations/typhoon-in-the-philippin-2
+2006,20061117,flood,Kenya,KEN,https://disasterscharter.org/activations/flooding-in-kenya
+2006,20061113,flood,Somalia,SOM,https://disasterscharter.org/activations/flooding-in-somalia
+2006,20061103,flood,Ethiopia,ETH,https://disasterscharter.org/activations/flooding-in-ethiop-5
+2006,20061102,flood,Sri Lanka,LKA,https://disasterscharter.org/activations/flooding-in-sri-lanka
+2006,20061005,oil spill,Romania,ROU,https://disasterscharter.org/activations/danube-oil-spi-3
+2006,20061004,flood,France,FRA,https://disasterscharter.org/activations/flooding-in-france
+2006,20060825,flood,Sudan,SDN,https://disasterscharter.org/activations/flooding-in-sud-1
+2006,20060822,oil spill,Oil spill off the coast of the Philippines,PHL,https://disasterscharter.org/activations/oil-spill-off-the-coast-of-the-philippin-2
+2006,20060816,flood,Ethiopia,ETH,https://disasterscharter.org/activations/floods-in-ethiop-8
+2006,20060811,flood,Pakistan,PAK,https://disasterscharter.org/activations/flooding-in-pakis-12
+2006,20060730,oil spill,Oil spill off the coast of Lebanon,LBN,https://disasterscharter.org/activations/oil-spill-off-the-coast-of-leban-8
+2006,20060727,flood,Argentina,ARG,https://disasterscharter.org/activations/flooding-in-argent-25
+2006,20060527,earthquake,"Earthquake on the island of Java, Indonesia",IDN,https://disasterscharter.org/activations/earthquake-on-the-island-of-java-indone-11
+2006,20060510,flood,Surinam,SUR,https://disasterscharter.org/activations/floods-in-surinam
+2006,20060425,volcano,Indonesia,IDN,https://disasterscharter.org/activations/predicted-eruption-merapi-volcano-java
+2006,20060418,flood,Romania,ROU,https://disasterscharter.org/activations/flooding-in-romania
+2006,20060414,flood,Hungary,HUN,https://disasterscharter.org/activations/flooding-in-hunga-2
+2006,20060407,flood,Austria,AUT,https://disasterscharter.org/activations/flooding-in-austr-9
+2006,20060401,flood,Germany,DEU,https://disasterscharter.org/activations/flooding-in-central-europe
+2006,20060401,flood,Germany,DEU,https://disasterscharter.org/activations/flooding-in-germany
+2006,20060321,earthquake,Algeria,DZA,https://disasterscharter.org/activations/earthquake-in-alge-13
+2006,20060217,landslide,the Philippines,PHL,https://disasterscharter.org/activations/landslide-in-the-philippin-9
+2006,20060203,accident,United Kingdom,GBR,https://disasterscharter.org/activations/tanker-accident-in-the-english-channel
+2005,20051201,volcano,"Volcanic Eruption, Comoros",COM,https://disasterscharter.org/activations/volcanic-eruption-comoros
+2005,20051008,earthquake,India,IND,https://disasterscharter.org/activations/earthquake-in-in-19
+2005,20051008,earthquake,Pakistan,PAK,https://disasterscharter.org/activations/earthquake-in-pakist-5
+2005,20051005,volcano,Central America; Volcanic eruption in El Salvador,SLV,https://disasterscharter.org/activations/hurricane-floods-landslides-in-central-america-volcanic-eruption-in-el-salva-54
+2005,20050906,flood,the south of France,FRA,https://disasterscharter.org/activations/heavy-rains-flooding-in-the-south-of-fra-11
+2005,20050902,hurricane,United States,USA,https://disasterscharter.org/activations/hurricane-floods-in-louisiana-mississippi-and-alab-25
+2005,20050831,flood,Senegal,SEN,https://disasterscharter.org/activations/floods-in-seneg-9
+2005,20050831,hurricane,United States,USA,https://disasterscharter.org/activations/hurricane-floods-in-louisiana
+2005,20050827,hurricane,United States,USA,https://disasterscharter.org/activations/hurricane-floods-in-southern-florida-gulf-coast-louisiana-alabama-and-mississippi
+2005,20050825,landslide,Switzerland,CHE,https://disasterscharter.org/activations/floods-landslides-in-switzerla-1
+2005,20050823,fire,Portugal,PRT,https://disasterscharter.org/activations/fires-in-portu-21
+2005,20050715,flood,Romania,ROU,https://disasterscharter.org/activations/floods-in-roman-8
+2005,20050705,wildfire,Southern France,FRA,https://disasterscharter.org/activations/forest-fires-in-southern-fran-6
+2005,20050627,flood,India,IND,https://disasterscharter.org/activations/floods-in-india
+2005,20050622,flood,Southern China,CHN,https://disasterscharter.org/activations/floods-in-southern-chi-5
+2005,20050609,flood,Bulgaria,BGR,https://disasterscharter.org/activations/floods-in-bulga-30
+2005,20050531,flood,Romania,ROU,https://disasterscharter.org/activations/floods-in-roman-3
+2005,20050506,flood,Ethiopia,ETH,https://disasterscharter.org/activations/floods-in-ethiop-7
+2005,20050504,flood,"Flood - Dadaab, Northern Kenya",KEN,https://disasterscharter.org/activations/flood-dadaab-northern-ken-2
+2005,20050222,earthquake,Iran,IRN,https://disasterscharter.org/activations/earthquake-in-ir-9
+2005,20050211,landslide,Venezuela,VEN,https://disasterscharter.org/activations/floods-and-landslides-in-venezuela
+2005,20050211,flood,Pakistan,PAK,https://disasterscharter.org/activations/floods-in-pakist-9
+2005,20050205,hurricane,Hurricane on Rarotonga Island - Cook Islands,TON,https://disasterscharter.org/activations/hurricane-on-rarotonga-island-cook-islan-7
+2005,20050201,flood,Guyana,GUY,https://disasterscharter.org/activations/floods-in-guya-2
+2005,20050114,hurricane,Sweden,SWE,https://disasterscharter.org/activations/hurricane-force-winds-swed-4
+2004,20041227,tsunami,"Tsunami, Indonesia and Thailand",IDN,https://disasterscharter.org/activations/tsunami-indonesia-and-thail-45
+2004,20041226,earthquake,Southern Asia,IND,https://disasterscharter.org/activations/earthquake-tsunami-in-southern-as-6
+2004,20041226,tsunami,"Tsunami, Sri Lanka",LKA,https://disasterscharter.org/activations/tsunami-sri-la-30
+2004,20041203,flood,Colombia,COL,https://disasterscharter.org/activations/heavy-floods-and-torrential-rain-in-colomb-2
+2004,20041201,typhoon,the Philippines,PHL,https://disasterscharter.org/activations/typhoon-in-the-philippin-9
+2004,20040921,hurricane,Haiti,HTI,https://disasterscharter.org/activations/hurricane-in-hai-4
+2004,20040916,wildfire,Bolivia,BOL,https://disasterscharter.org/activations/forest-fires-in-bolivia
+2004,20040911,hurricane,the Caribbean,ATG,https://disasterscharter.org/activations/hurricane-in-the-caribbean
+2004,20040825,volcano,Colombia,COL,https://disasterscharter.org/activations/volcanic-activity-in-colombia
+2004,20040811,flood,Sudan,SDN,https://disasterscharter.org/activations/heavy-floods-and-torrential-rain-in-sudan
+2004,20040702,flood,Argentina,ARG,https://disasterscharter.org/activations/floods-in-argent-15
+2004,20040528,earthquake,northern Iran,IRN,https://disasterscharter.org/activations/earthquake-in-northern-ir-1
+2004,20040526,flood,Haiti and in the Dominican Republic,DMA,https://disasterscharter.org/activations/floods-in-haiti-and-in-the-dominican-repub-12
+2004,20040518,earthquake,Tenerife,ESP,https://disasterscharter.org/activations/earthquakes-in-teneri-1
+2004,20040423,accident,North Korea,PRK,https://disasterscharter.org/activations/train-accident-in-north-kor-1
+2004,20040407,earthquake,the Hindu Kush region of Afghanistan,AFG,https://disasterscharter.org/activations/earthquake-in-the-hindu-kush-region-of-afghanistan
+2004,20040331,flood,Eastern Namibia,NAM,https://disasterscharter.org/activations/flooding-in-eastern-namib-1
+2004,20040224,earthquake,Morocco,MAR,https://disasterscharter.org/activations/earthquake-in-moroc-7
+2004,20040206,earthquake,Indonesia,IDN,https://disasterscharter.org/activations/earthquake-in-indonesia-papua-provinc-5
+2004,20040128,earthquake,Iran,IRN,https://disasterscharter.org/activations/earthquake-in-i-10
+2004,20040126,flood,Bolivia,BOL,https://disasterscharter.org/activations/flooding-in-boli-20
+2003,20031226,earthquake,Iran,IRN,https://disasterscharter.org/activations/earthquake-in-iran-bam-
+2003,20031221,landslide,Philippines Landslide,PHL,https://disasterscharter.org/activations/philippines-landsli-4
+2003,20031204,flood,"Arles, France",FRA,https://disasterscharter.org/activations/flooding-in-arles-fran-2
+2003,20031127,flood,the Dominican Republic,DMA,https://disasterscharter.org/activations/flooding-in-the-dominican-republic
+2003,20031021,flood,"British Columbia (Vancouver), Canada",CAN,https://disasterscharter.org/activations/flooding-in-british-columbia-vancouver-canada
+2003,20030925,storm,the United States of America,USA,https://disasterscharter.org/activations/wind-storm-in-the-united-states-of-america
+2003,20030902,wildfire,France,FRA,https://disasterscharter.org/activations/wildfires-in-fran-2
+2003,20030807,landslide,Nepal,NPL,https://disasterscharter.org/activations/flooding-and-landslides-in-nepal
+2003,20030807,wildfire,Canada,CAN,https://disasterscharter.org/activations/wildfires-in-canada
+2003,20030804,wildfire,Portugal,PRT,https://disasterscharter.org/activations/forest-fires-in-port-146
+2003,20030719,wildfire,the Var Region,FRA,https://disasterscharter.org/activations/forest-fires-in-the-var-regi-5
+2003,20030718,volcano,Montserrat,MSR,https://disasterscharter.org/activations/soufriere-hills-volcano-eruption
+2003,20030522,earthquake,Algeria Earthquake,DZA,https://disasterscharter.org/activations/algeria-earthquake
+2003,20030507,earthquake,Türkiye Earthquake,TUR,https://disasterscharter.org/activations/turkey-earthquake
+2003,20030430,flood,Argentina Floods,ARG,https://disasterscharter.org/activations/argentina-floo-6
+2003,20030424,hurricane,India,IND,https://disasterscharter.org/activations/hurricane-in-ind-4
+2003,20030409,volcano,Italy,ITA,https://disasterscharter.org/activations/stromboli-volcano-erupt-10
+2002,20021128,flood,Morocco Floods,MAR,https://disasterscharter.org/activations/morocco-floo-1
+2002,20021114,oil spill,"Prestige Oil Spill, Galicia (Spain)",ESP,https://disasterscharter.org/activations/prestige-oil-spill-galicia-spai-9
+2002,20021008,oil spill,Yemen,YEM,https://disasterscharter.org/activations/oil-spill-in-the-gulf-of-aden
+2002,20021004,hurricane,"Yucatan, Mexico",MEX,https://disasterscharter.org/activations/hurricane-in-yucatan-mexico
+2002,20020927,landslide,Russia,RUS,https://disasterscharter.org/activations/landslide-in-russia-north-osseti-1
+2002,20020909,flood,South-Eastern France,FRA,https://disasterscharter.org/activations/flooding-in-south-eastern-fran-1
+2002,20020822,flood,"Flooding of the Elbe River, Germany",DEU,https://disasterscharter.org/activations/flooding-of-the-elbe-river-germany
+2002,20020820,flood,"Flooding of the Danube River, Austria",AUT,https://disasterscharter.org/activations/flooding-of-the-danube-river-austria
+2002,20020817,flood,"Czech Republic, Znojmo",CZE,https://disasterscharter.org/activations/flooding-in-czech-republic-znojmo-south-moravia-
+2002,20020628,flood,southern Russia,RUS,https://disasterscharter.org/activations/flooding-in-southern-russia-caucasia-
+2002,20020618,flood,"British Columbia, Canada",CAN,https://disasterscharter.org/activations/flooding-in-british-columbia-cana-5
+2002,20020613,flood,"Manitoba, Canada",CAN,https://disasterscharter.org/activations/flooding-in-manitoba-cana-6
+2002,20020506,landslide,Italy,ITA,https://disasterscharter.org/activations/landslide-in-italy
+2002,20020328,earthquake,Afghanistan,AFG,https://disasterscharter.org/activations/earthquakes-in-afghanistan
+2002,20020327,earthquake,Afghanistan,AFG,https://disasterscharter.org/activations/earthquakes-in-afghanist-1
+2002,20020121,volcano,Congo (Democratic Republic Of The),COD,https://disasterscharter.org/activations/mount-nyiragongo-volcano-erupti-5
+2001,20011231,flood,the NE of France,FRA,https://disasterscharter.org/activations/flooding-in-the-ne-of-fran-4
+2001,20010801,landslide,Indonesia,IDN,https://disasterscharter.org/activations/nias-island-flooding-and-landslides
+2001,20010726,volcano,Italy,ITA,https://disasterscharter.org/activations/mount-etna-volcano-erupti-10
+2001,20010522,flood,Russia,RUS,https://disasterscharter.org/activations/lena-river-flood
+2001,20010330,oil spill,Denmark,DNK,https://disasterscharter.org/activations/denmark-oil-spill
+2001,20010330,oil spill,Lebanon Oil Spill,LBN,https://disasterscharter.org/activations/lebanon-oil-spi-1
+2001,20010322,flood,France,FRA,https://disasterscharter.org/activations/sa-ne-river-floodi-2
+2001,20010214,earthquake,El Salvador,SLV,https://disasterscharter.org/activations/earthquake-and-landslides-in-el-salvador
+2001,20010129,earthquake,India,IND,https://disasterscharter.org/activations/earthquake-in-india
+2001,20010126,oil spill,Ecuador,ECU,https://disasterscharter.org/activations/oil-spill-in-ecuador
+2001,20010115,earthquake,El Salvador,SLV,https://disasterscharter.org/activations/earthquake-and-landslide-in-el-salvador
+2000,20001127,landslide,Slovenia,SVN,https://disasterscharter.org/activations/landslide-in-sloven-8

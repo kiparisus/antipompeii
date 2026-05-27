@@ -1,0 +1,554 @@
+year,date,type,country,code,link
+2026,20260504,flood,Kyrgyzstan,KGZ,https://sentinel-asia.org/EO/2026/article20260504KG.html
+2026,20260502,volcano,Philippines,PHL,https://sentinel-asia.org/EO/2026/article20260502PH.html
+2026,20260501,landslide,Tajikistan,TJK,https://sentinel-asia.org/EO/2026/article20260501TJ.html
+2026,20260406,flood,Kazakhstan,KAZ,https://sentinel-asia.org/EO/2026/article20260406KZ.html
+2025,20251128,landslide,"Sumatra, Indonesia",IDN,https://sentinel-asia.org/EO/2025/article20251128ID.html
+2025,20251126,cyclone,Sri Lanka,LKA,https://sentinel-asia.org/EO/2025/article20251126LK.html
+2025,20251119,flood,Thailand,THA,https://sentinel-asia.org/EO/2025/article20251119TH.html
+2025,20251119,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2025/article20251119VN.html
+2025,20251119,volcano,Indonesia,IDN,https://sentinel-asia.org/EO/2025/article20251119ID.html
+2025,20251108,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2025/article20251108PH.html
+2025,20251106,typhoon,Vietnam,VNM,https://sentinel-asia.org/EO/2025/article20251106VN.html
+2025,20251104,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2025/article20251104PH.html
+2025,20251026,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2025/article20251026VN.html
+2025,20251025,glacier,"Safedob, Tajikobat district, Tajikistan",TJK,https://sentinel-asia.org/EO/2025/article20251025TJ.html
+2025,20251010,earthquake,"coast of southeast Mindanao, Philippines",PHL,https://sentinel-asia.org/EO/2025/article20251010PH.html
+2025,20251007,flood,"Thai Nguyen Province, Vietnam",VNM,https://sentinel-asia.org/EO/2025/article20251007VN.html
+2025,20251004,flood,Nepal,NPL,https://sentinel-asia.org/EO/2025/article20251004NP.html
+2025,20251001,earthquake,"Cebu, Philippines",PHL,https://sentinel-asia.org/EO/2025/article20251001PH.html
+2025,20250929,typhoon,Vietnam,VNM,https://sentinel-asia.org/EO/2025/article20250929VN.html
+2025,20250926,typhoon,Vietnam,VNM,https://sentinel-asia.org/EO/2025/article20250926VN.html
+2025,20250925,cyclone,Philippines,PHL,https://sentinel-asia.org/EO/2025/article20250925PH.html
+2025,20250920,storm,Philippines,PHL,https://sentinel-asia.org/EO/2025/article20250920PH.html
+2025,20250917,flood,Philippines,PHL,https://sentinel-asia.org/EO/2025/article20250917PH.html
+2025,20250831,flood,"Kanchanpur district, Nepal",NPL,https://sentinel-asia.org/EO/2025/article20250831NP.html
+2025,20250830,wildfire,"Almaty Region, Kazakhstan",KAZ,https://sentinel-asia.org/EO/2025/article20250830KZ.html
+2025,20250825,typhoon,Vietnam,VNM,https://sentinel-asia.org/EO/2025/article20250825VN.html
+2025,20250817,wildfire,Kyrgyzstan,KGZ,https://sentinel-asia.org/EO/2025/article20250817KG.html
+2025,20250813,flood,Nepal,NPL,https://sentinel-asia.org/EO/2025/article20250813NP.html
+2025,20250811,mudflow,"Nokhur Village, Turkmenistan",TKM,https://sentinel-asia.org/EO/2025/article20250811TM.html
+2025,20250801,flood,"Dien Bien and Son La, Vietnam",VNM,https://sentinel-asia.org/EO/2025/article20250801VN.html
+2025,20250728,flood,Taiwan,TWN,https://sentinel-asia.org/EO/2025/article20250728TW.html
+2025,20250725,wildfire,Kazakhstan,KAZ,https://sentinel-asia.org/EO/2025/article20250725KZ.html
+2025,20250725,flood,Lao PDR,LAO,https://sentinel-asia.org/EO/2025/article20250725LA.html
+2025,20250724,landslide,Kyrgyzstan,KGZ,https://sentinel-asia.org/EO/2025/article20250724KG.html
+2025,20250723,wildfire,Uzbekistan,UZB,https://sentinel-asia.org/EO/2025/article20250723UZ.html
+2025,20250721,cyclone,Lao PDR,LAO,https://sentinel-asia.org/EO/2025/article20250721LA.html
+2025,20250721,typhoon,Vietnam,VNM,https://sentinel-asia.org/EO/2025/article20250721VN.html
+2025,20250717,flood,Thailand,THA,https://sentinel-asia.org/EO/2025/article20250717TH.html
+2025,20250716,flood,Philippines,PHL,https://sentinel-asia.org/EO/2025/article20250716PH.html
+2025,20250630,flood,Nepal,NPL,https://sentinel-asia.org/EO/2025/article20250630NP.html
+2025,20250627,flood,Kyrgyzstan,KGZ,https://sentinel-asia.org/EO/2025/article20250627KG.html
+2025,20250621,landslide,Vietnam,VNM,https://sentinel-asia.org/EO/2025/article20250621VN.html
+2025,20250617,volcano,Indonesia,IDN,https://sentinel-asia.org/EO/2025/article20250617ID.html
+2025,20250612,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2025/article20250612VN.html
+2025,20250608,landslide,"Lai Chau, Vietnam",VNM,https://sentinel-asia.org/EO/2025/article20250608VN.html
+2025,20250525,oil spill,India,IND,https://sentinel-asia.org/EO/2025/article20250525IN.html
+2025,20250525,landslide,Vietnam,VNM,https://sentinel-asia.org/EO/2025/article20250525VN.html
+2025,20250518,landslide,Vietnam,VNM,https://sentinel-asia.org/EO/2025/article20250518VN.html
+2025,20250515,flood,"Humla, Nepal",NPL,https://sentinel-asia.org/EO/2025/article20250515NP.html
+2025,20250413,earthquake,Tajikistan,TJK,https://sentinel-asia.org/EO/2025/article20250413TJ.html
+2025,20250328,earthquake,"Mandalay, Myanmar",MMR,https://sentinel-asia.org/EO/2025/article20250328MM.html
+2025,20250328,earthquake,Thailand,THA,https://sentinel-asia.org/EO/2025/article20250328TH.html
+2025,20250223,cyclone,Fiji,FJI,https://sentinel-asia.org/EO/2025/article20250223FJ.html
+2025,20250209,flood,"Palawan, Philippines",PHL,https://sentinel-asia.org/EO/2025/article20250209PH.html
+2025,20250107,earthquake,"Xizang, Southwest China",CHN,https://sentinel-asia.org/EO/2025/article20250107CN.html
+2024,20241217,earthquake,Vanuatu,VUT,https://sentinel-asia.org/EO/2024/article20241217VU.html
+2024,20241209,volcano,Philippines,PHL,https://sentinel-asia.org/EO/2024/article20241209PH.html
+2024,20241203,landslide,"Java, Indonesia",IDN,https://sentinel-asia.org/EO/2024/article20241203ID.html
+2024,20241126,flood,Thailand,THA,https://sentinel-asia.org/EO/2024/article20241126TH.html
+2024,20241116,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2024/article20241116PH.html
+2024,20241111,landslide,Philippines,PHL,https://sentinel-asia.org/EO/2024/article20241111PH.html
+2024,20241103,volcano,Indonesia,IDN,https://sentinel-asia.org/EO/2024/article20241103ID.html
+2024,20241027,storm,Vietnam,VNM,https://sentinel-asia.org/EO/2024/article20241027VN.html
+2024,20241025,cyclone,India,IND,https://sentinel-asia.org/EO/2024/article20241025IN.html
+2024,20241024,landslide,Philippines,PHL,https://sentinel-asia.org/EO/2024/article20241024PH.html
+2024,20241023,storm,Philippines,PHL,https://sentinel-asia.org/EO/2024/article20241023PH.html
+2024,20240929,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2024/article20240929PH.html
+2024,20240928,flood,Nepal,NPL,https://sentinel-asia.org/EO/2024/article20240928NP.html
+2024,20240919,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2024/article20240919VN.html
+2024,20240912,flood,Lao PDR,LAO,https://sentinel-asia.org/EO/2024/article20240912LA.html
+2024,20240911,flood,"Naypyidaw, Myanmar",MMR,https://sentinel-asia.org/EO/2024/article20240911MM.html
+2024,20240910,flood,"Thailand, Thailand",THA,https://sentinel-asia.org/EO/2024/article20240910TH.html
+2024,20240908,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2024/article20240908VN.html
+2024,20240901,flood,Philippines,PHL,https://sentinel-asia.org/EO/2024/article20240901PH.html
+2024,20240827,flood,"Gujarat State, India",IND,https://sentinel-asia.org/EO/2024/article20240827IN.html
+2024,20240824,landslide,"Cao Bang City, Vietnam",VNM,https://sentinel-asia.org/EO/2024/article20240824VN.html
+2024,20240823,avalanche,"Mustang, Nepal",NPL,https://sentinel-asia.org/EO/2024/article20240823NP.html
+2024,20240823,landslide,"Thai Nguyen City, Vietnam",VNM,https://sentinel-asia.org/EO/2024/article20240823VN.html
+2024,20240821,flood,Bangladesh,BGD,https://sentinel-asia.org/EO/2024/article20240821BD.html
+2024,20240818,flood,"Issyk-Kul district, Kyrgyzstan",KGZ,https://sentinel-asia.org/EO/2024/article20240818KG.html
+2024,20240816,flood,"Solukhumbu, Nepal",NPL,https://sentinel-asia.org/EO/2024/article20240816NP.html
+2024,20240810,landslide,Bhutan,BTN,https://sentinel-asia.org/EO/2024/article20240810BT.html
+2024,20240806,landslide,Tajikistan,TJK,https://sentinel-asia.org/EO/2024/article20240806TJ.html
+2024,20240730,flood,"Kathmandu, Nepal",NPL,https://sentinel-asia.org/EO/2024/article20240730NP.html
+2024,20240725,typhoon,Taiwan,TWN,https://sentinel-asia.org/EO/2024/article20240725TW.html
+2024,20240725,oil spill,Philippines,PHL,https://sentinel-asia.org/EO/2024/article20240725PH.html
+2024,20240723,landslide,"Son La City, Vietnam",VNM,https://sentinel-asia.org/EO/2024/article20240723VN.html
+2024,20240723,mudflow,"Arstanbap, Kyrgyzstan",KGZ,https://sentinel-asia.org/EO/2024/article20240723KG.html
+2024,20240723,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2024/article20240723PH.html
+2024,20240718,landslide,Philippines,PHL,https://sentinel-asia.org/EO/2024/article20240718PH.html
+2024,20240715,flood,"Mindanao Island, Philippines",PHL,https://sentinel-asia.org/EO/2024/article20240715PH.html
+2024,20240714,mudflow,Kyrgyzstan,KGZ,https://sentinel-asia.org/EO/2024/article20240714KG.html
+2024,20240714,mudflow,Uzbekistan,UZB,https://sentinel-asia.org/EO/2024/article20240714UZ.html
+2024,20240714,landslide,Vietnam,VNM,https://sentinel-asia.org/EO/2024/article20240714VN.html
+2024,20240713,mudflow,Tajikistan,TJK,https://sentinel-asia.org/EO/2024/article20240713TJ.html
+2024,20240710,flood,Uttar Pradesh of India,IND,https://sentinel-asia.org/EO/2024/article20240710IN.html
+2024,20240707,flood,"Region, Nepal",NPL,https://sentinel-asia.org/EO/2024/article20240707NP.html
+2024,20240706,flood,"Gandaki Province, Nepal",NPL,https://sentinel-asia.org/EO/2024/article20240706NP.html
+2024,20240703,landslide,Vietnam,VNM,https://sentinel-asia.org/EO/2024/article20240703VN.html
+2024,20240701,flood,"Kachin state, Myanmar",MMR,https://sentinel-asia.org/EO/2024/article20240701MM.html
+2024,20240628,mudflow,"Nookat district, Kyrgyzstan",KGZ,https://sentinel-asia.org/EO/2024/article20240628KG.html
+2024,20240626,flood,Nepal,NPL,https://sentinel-asia.org/EO/2024/article20240626NP.html
+2024,20240624,mudslide,Kyrgyzstan,KGZ,https://sentinel-asia.org/EO/2024/article20240624KG.html
+2024,20240609,landslide,Vietnam,VNM,https://sentinel-asia.org/EO/2024/article20240609VN.html
+2024,20240601,flood,Bangladesh,BGD,https://sentinel-asia.org/EO/2024/article20240601BD.html
+2024,20240527,flood,India,IND,https://sentinel-asia.org/EO/2024/article20240527IN.html
+2024,20240516,flood,Turkmenistan,TKM,https://sentinel-asia.org/EO/2024/article20240516TM.html
+2024,20240511,flood,"Sumatra, Indonesia",IDN,https://sentinel-asia.org/EO/2024/article20240511ID.html
+2024,20240502,landslide,Indonesia,IDN,https://sentinel-asia.org/EO/2024/article20240502ID.html
+2024,20240502,flood,United Arab Emirates,ARE,https://sentinel-asia.org/EO/2024/article20240502AE.html
+2024,20240421,flood,Nepal,NPL,https://sentinel-asia.org/EO/2024/article20240421NP.html
+2024,20240420,mudslide,Kyrgyzstan,KGZ,https://sentinel-asia.org/EO/2024/article20240420KG.html
+2024,20240416,volcano,Indonesia,IDN,https://sentinel-asia.org/EO/2024/article20240416ID.html
+2024,20240414,flood,Pakistan,PAK,https://sentinel-asia.org/EO/2024/article20240414PK.html
+2024,20240403,earthquake,Taiwan,TWN,https://sentinel-asia.org/EO/2024/article20240403TW.html
+2024,20240330,flood,Kazakhstan,KAZ,https://sentinel-asia.org/EO/2024/article20240330KZ.html
+2024,20240315,flood,"Java Island, Indonesia",IDN,https://sentinel-asia.org/EO/2024/article20240315ID.html
+2024,20240122,earthquake,"Xinjiang, China",CHN,https://sentinel-asia.org/EO/2024/article20240122CN.html
+2024,20240101,earthquake,Japan,JPN,https://sentinel-asia.org/EO/2024/article20240101JP.html
+2023,20231218,earthquake,China,CHN,https://sentinel-asia.org/EO/2023/article20231218CN.html
+2023,20231203,volcano,Indonesia,IDN,https://sentinel-asia.org/EO/2023/article20231203ID.html
+2023,20231117,earthquake,"Mindanao, Philippines",PHL,https://sentinel-asia.org/EO/2023/article20231117PH.html
+2023,20231117,cyclone,Bangladesh,BGD,https://sentinel-asia.org/EO/2023/article20231117BD.html
+2023,20231115,flood,"Thua Thien Hue province, Vietnam",VNM,https://sentinel-asia.org/EO/2023/article20231115VN.html
+2023,20231103,earthquake,Nepal,NPL,https://sentinel-asia.org/EO/2023/article20231103NP.html
+2023,20231030,flood,"Ha Tinh province, Vietnam",VNM,https://sentinel-asia.org/EO/2023/article20231030VN.html
+2023,20231013,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2023/article20231013VN.html
+2023,20231007,earthquake,Afghanistan,AFG,https://sentinel-asia.org/EO/2023/article20231007AF.html
+2023,20230926,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2023/article20230926VN.html
+2023,20230912,landslide,Vietnam,VNM,https://sentinel-asia.org/EO/2023/article20230912VN.html
+2023,20230827,landslide,Tajikistan,TJK,https://sentinel-asia.org/EO/2023/article20230827TJ.html
+2023,20230816,landslide,Vietnam,VNM,https://sentinel-asia.org/EO/2023/article20230816VN.html
+2023,20230805,landslide,Vietnam,VNM,https://sentinel-asia.org/EO/2023/article20230805VN.html
+2023,20230725,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2023/article20230725PH.html
+2023,20230720,flood,Bhutan,BTN,https://sentinel-asia.org/EO/2023/article20230720BT.html
+2023,20230718,landslide,Vietnam,VNM,https://sentinel-asia.org/EO/2023/article20230718VN.html
+2023,20230713,landslide,India,IND,https://sentinel-asia.org/EO/2023/article20230713IN.html
+2023,20230615,cyclone,India,IND,https://sentinel-asia.org/EO/2023/article20230615IN.html
+2023,20230608,wildfire,Kazakhstan,KAZ,https://sentinel-asia.org/EO/2023/article20230608KZ.html
+2023,20230527,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2023/article20230527PH.html
+2023,20230514,cyclone,Bangladesh,BGD,https://sentinel-asia.org/EO/2023/article20230514BD.html
+2023,20230514,cyclone,Myanmar,MMR,https://sentinel-asia.org/EO/2023/article20230514MM.html
+2023,20230306,landslide,Indonesia,IDN,https://sentinel-asia.org/EO/2023/article20230306ID.html
+2023,20230228,oil spill,Philippines,PHL,https://sentinel-asia.org/EO/2023/article20230228PH.html
+2023,20230216,earthquake,Philippines,PHL,https://sentinel-asia.org/EO/2023/article20230216PH.html
+2023,20230206,earthquake,Turkey,TUR,https://sentinel-asia.org/EO/2023/article20230206TR.html
+2022,20221227,landslide,Philippines,PHL,https://sentinel-asia.org/EO/2022/article20221227PH.html
+2022,20221204,volcano,Indonesia,IDN,https://sentinel-asia.org/EO/2022/article20221204ID.html
+2022,20221121,earthquake,Indonesia,IDN,https://sentinel-asia.org/EO/2022/article20221121ID.html
+2022,20221029,landslide,Philippines,PHL,https://sentinel-asia.org/EO/2022/article20221029PH.html
+2022,20221019,flood,Thailand,THA,https://sentinel-asia.org/EO/2022/article20221019TH.html
+2022,20221013,flood,India,IND,https://sentinel-asia.org/EO/2022/article20221013IN.html
+2022,20221002,avalanche,Nepal,NPL,https://sentinel-asia.org/EO/2022/article20221002NP.html
+2022,20220928,landslide,Vietnam,VNM,https://sentinel-asia.org/EO/2022/article20220928VN.html
+2022,20220925,landslide,Philippines,PHL,https://sentinel-asia.org/EO/2022/article20220925PH.html
+2022,20220917,earthquake,Taiwan,TWN,https://sentinel-asia.org/EO/2022/article20220917TW.html
+2022,20220905,earthquake,China,CHN,https://sentinel-asia.org/EO/2022/article20220905CN.html
+2022,20220823,flood,India,IND,https://sentinel-asia.org/EO/2022/article20220823IN.html
+2022,20220823,landslide,Philippines,PHL,https://sentinel-asia.org/EO/2022/article20220823PH.html
+2022,20220817,flood,Pakistan,PAK,https://sentinel-asia.org/EO/2022/article20220817PK.html
+2022,20220727,earthquake,Philippines,PHL,https://sentinel-asia.org/EO/2022/article20220727PH.html
+2022,20220712,flood,"Gujarat, India",IND,https://sentinel-asia.org/EO/2022/article20220712IN.html
+2022,20220712,flood,"Andhra Pradesh, India",IND,https://sentinel-asia.org/EO/2022/article20220712IN.html
+2022,20220707,landslide,Vietnam,VNM,https://sentinel-asia.org/EO/2022/article20220707VN.html
+2022,20220622,earthquake,Afghanistan,AFG,https://sentinel-asia.org/EO/2022/article20220622AF.html
+2022,20220618,flood,Bangladesh,BGD,https://sentinel-asia.org/EO/2022/article20220618BD.html
+2022,20220615,flood,India,IND,https://sentinel-asia.org/EO/2022/article20220615IN.html
+2022,20220605,volcano,Philippines,PHL,https://sentinel-asia.org/EO/2022/article20220605PH.html
+2022,20220523,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2022/article20220523ID.html
+2022,20220515,flood,India,IND,https://sentinel-asia.org/EO/2022/article20220515IN.html
+2022,20220412,landslide,Philippines,PHL,https://sentinel-asia.org/EO/2022/article20220412PH.html
+2022,20220224,flood,Thailand,THA,https://sentinel-asia.org/EO/2022/article20220224TH.html
+2022,20220210,oil spill,Thailand,THA,https://sentinel-asia.org/EO/2022/article20220210TH.html
+2022,20220115,volcano,Tonga,TON,https://sentinel-asia.org/EO/2022/article20220115TO.html
+2021,20211214,storm,Philippines,PHL,https://sentinel-asia.org/EO/2021/article20211214PH.html
+2021,20211204,volcano,Indonesia,IDN,https://sentinel-asia.org/EO/2021/article20211204ID.html
+2021,20211123,volcano,Philippines,PHL,https://sentinel-asia.org/EO/2021/article20211123PH.html
+2021,20211107,flood,India,IND,https://sentinel-asia.org/EO/2021/article20211107IN.html
+2021,20211105,landslide,Sri Lanka,LKA,https://sentinel-asia.org/EO/2021/article20211105LK.html
+2021,20211022,landslide,Vietnam,VNM,https://sentinel-asia.org/EO/2021/article20211022VN.html
+2021,20211020,volcano,Japan,JPN,https://sentinel-asia.org/EO/2021/article20211020JP.html
+2021,20211016,landslide,India,IND,https://sentinel-asia.org/EO/2021/article20211016IN.html
+2021,20211014,typhoon,Vietnam,VNM,https://sentinel-asia.org/EO/2021/article20211014VN.html
+2021,20211012,landslide,Philippines,PHL,https://sentinel-asia.org/EO/2021/article20211012PH.html
+2021,20211006,landslide,Vietnam,VNM,https://sentinel-asia.org/EO/2021/article20211006VN.html
+2021,20211001,storm,Thailand,THA,https://sentinel-asia.org/EO/2021/article20211001TH.html
+2021,20210913,typhoon,Vietnam,VNM,https://sentinel-asia.org/EO/2021/article20210913VN.html
+2021,20210908,storm,Philippines,PHL,https://sentinel-asia.org/EO/2021/article20210908PH.html
+2021,20210814,landslide,Japan,JPN,https://sentinel-asia.org/EO/2021/article20210814JP.html
+2021,20210811,landslide,Turkey,TUR,https://sentinel-asia.org/EO/2021/article20210811TR.html
+2021,20210727,flood,Myanmar,MMR,https://sentinel-asia.org/EO/2021/article20210727MM.html
+2021,20210725,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2021/article20210725PH.html
+2021,20210720,mudflow,Kyrgyzstan,KGZ,https://sentinel-asia.org/EO/2021/article20210720KG.html
+2021,20210713,flood,Uzbekistan,UZB,https://sentinel-asia.org/EO/2021/article20210713UZ.html
+2021,20210712,flood,Kyrgyzstan,KGZ,https://sentinel-asia.org/EO/2021/article20210712KG.html
+2021,20210707,earthquake,Tajikistan,TJK,https://sentinel-asia.org/EO/2021/article20210707TJ.html
+2021,20210615,landslide,Nepal,NPL,https://sentinel-asia.org/EO/2021/article20210615NP.html
+2021,20210603,flood,Sri Lanka,LKA,https://sentinel-asia.org/EO/2021/article20210603LK.html
+2021,20210602,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2021/article20210602PH.html
+2021,20210526,cyclone,India,IND,https://sentinel-asia.org/EO/2021/article20210526IN.html
+2021,20210525,oil spill,Sri Lanka,LKA,https://sentinel-asia.org/EO/2021/article20210525LK.html
+2021,20210517,flood,India,IND,https://sentinel-asia.org/EO/2021/article20210517IN.html
+2021,20210511,landslide,Tajikistan,TJK,https://sentinel-asia.org/EO/2021/article20210511TJ.html
+2021,20210404,landslide,Timor-Leste,TLS,https://sentinel-asia.org/EO/2021/article20210404TL.html
+2021,20210404,landslide,Indonesia,IDN,https://sentinel-asia.org/EO/2021/article20210404ID.html
+2021,20210221,landslide,Philippines,PHL,https://sentinel-asia.org/EO/2021/article20210221PH.html
+2021,20210115,earthquake,Indonesia,IDN,https://sentinel-asia.org/EO/2021/article20210115ID.html
+2020,20201202,storm,Sri Lanka,LKA,https://sentinel-asia.org/EO/2020/article20201202LK.html
+2020,20201125,storm,India,IND,https://sentinel-asia.org/EO/2020/article20201125IN.html
+2020,20201115,landslide,Vietnam,VNM,https://sentinel-asia.org/EO/2020/article20201115VN.html
+2020,20201111,flood,Philippines,PHL,https://sentinel-asia.org/EO/2020/article20201111PH.html
+2020,20201101,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2020/article20201101PH.html
+2020,20201030,earthquake,Turkey,TUR,https://sentinel-asia.org/EO/2020/article20201030TR.html
+2020,20201027,storm,Vietnam,VNM,https://sentinel-asia.org/EO/2020/article20201027VN.html
+2020,20201017,flood,Cambodia,KHM,https://sentinel-asia.org/EO/2020/article20201017KH.html
+2020,20201007,landslide,Vietnam,VNM,https://sentinel-asia.org/EO/2020/article20201007VN.html
+2020,20200917,storm,Vietnam,VNM,https://sentinel-asia.org/EO/2020/article20200917VN.html
+2020,20200904,typhoon,Japan,JPN,https://sentinel-asia.org/EO/2020/article20200904JP.html
+2020,20200818,earthquake,Philippines,PHL,https://sentinel-asia.org/EO/2020/article20200818PH.html
+2020,20200808,explosion,"Beirut, Lebanon",LBN,https://sentinel-asia.org/EO/2020/article20200808LB.html
+2020,20200722,landslide,Vietnam,VNM,https://sentinel-asia.org/EO/2020/article20200722VN.html
+2020,20200716,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2020/article20200716ID.html
+2020,20200713,flood,India,IND,https://sentinel-asia.org/EO/2020/article20200713IN.html
+2020,20200713,flood,India,IND,https://sentinel-asia.org/EO/2020/article20200713IN.html
+2020,20200706,landslide,Japan,JPN,https://sentinel-asia.org/EO/2020/article20200706JP.html
+2020,20200604,flood,India,IND,https://sentinel-asia.org/EO/2020/article20200604IN.html
+2020,20200518,flood,Bangladesh,BGD,https://sentinel-asia.org/EO/2020/article20200518BD.html
+2020,20200518,flood,India,IND,https://sentinel-asia.org/EO/2020/article20200518IN.html
+2020,20200508,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2020/article20200508ID.html
+2020,20200407,cyclone,Vanuatu,VUT,https://sentinel-asia.org/EO/2020/article20200407VU.html
+2020,20200225,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2020/article20200225ID.html
+2020,20200124,earthquake,Turkey,TUR,https://sentinel-asia.org/EO/2020/article20200124TR.html
+2020,20200112,volcano,Philippines,PHL,https://sentinel-asia.org/EO/2020/article20200112PH.html
+2020,20200111,flood,Iran,IRN,https://sentinel-asia.org/EO/2020/article20200111IR.html
+2020,20200101,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2020/article20200101ID.html
+2019,20191228,flood,Fiji,FJI,https://sentinel-asia.org/EO/2019/article20191228FJ.html
+2019,20191215,earthquake,Philippines,PHL,https://sentinel-asia.org/EO/2019/article20191215PH.html
+2019,20191203,landslide,Philippines,PHL,https://sentinel-asia.org/EO/2019/article20191203PH.html
+2019,20191201,landslide,Kyrgyzstan,KGZ,https://sentinel-asia.org/EO/2019/article20191201KG.html
+2019,20191111,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2019/article20191111VN.html
+2019,20191031,earthquake,Philippines,PHL,https://sentinel-asia.org/EO/2019/article20191031PH.html
+2019,20191012,typhoon,Japan,JPN,https://sentinel-asia.org/EO/2019/article20191012JP.html
+2019,20190930,flood,India,IND,https://sentinel-asia.org/EO/2019/article20190930IN.html
+2019,20190920,flood,Thailand,THA,https://sentinel-asia.org/EO/2019/article20190920TH.html
+2019,20190906,flood,Lao PDR,LAO,https://sentinel-asia.org/EO/2019/article20190906LA.html
+2019,20190905,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2019/article20190905VN.html
+2019,20190828,flood,"Kyushu, Japan",JPN,https://sentinel-asia.org/EO/2019/article20190828JP.html
+2019,20190808,flood,Myanmar,MMR,https://sentinel-asia.org/EO/2019/article20190808MM.html
+2019,20190714,earthquake,"Maluku, Eastern Indonesia",IDN,https://sentinel-asia.org/EO/2019/article20190714ID.html
+2019,20190624,flood,"Lai Chau province, Vietnam",VNM,https://sentinel-asia.org/EO/2019/article20190624VN.html
+2019,20190620,flood,Bhutan,BTN,https://sentinel-asia.org/EO/2019/article20190620BT.html
+2019,20190617,earthquake,"Sichuan, China",CHN,https://sentinel-asia.org/EO/2019/article20190617CN.html
+2019,20190516,landslide,"Ordu Aybasti district, Turkey",TUR,https://sentinel-asia.org/EO/2019/article20190516TR.html
+2019,20190502,cyclone,India,IND,https://sentinel-asia.org/EO/2019/article20190502IN.html
+2019,20190423,earthquake,"Samar Island, Philippines",PHL,https://sentinel-asia.org/EO/2019/article20190423PH.html
+2019,20190422,earthquake,"Zambales, Pampanga, Philippines",PHL,https://sentinel-asia.org/EO/2019/article20190422PH.html
+2019,20190404,wildfire,Korea,KOR,https://sentinel-asia.org/EO/2019/article20190404KR.html
+2019,20190331,storm,Nepal,NPL,https://sentinel-asia.org/EO/2019/article20190331NP.html
+2019,20190316,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2019/article20190316ID.html
+2019,20190117,volcano,Japan,JPN,https://sentinel-asia.org/EO/2019/article20190117JP.html
+2018,20181222,flood,Sri Lanka,LKA,https://sentinel-asia.org/EO/2018/article20181222LK.html
+2018,20181222,tsunami,Indonesia,IDN,https://sentinel-asia.org/EO/2018/article20181222ID.html
+2018,20181216,flood,India,IND,https://sentinel-asia.org/EO/2018/article20181216IN.html
+2018,20181124,typhoon,Vietnam,VNM,https://sentinel-asia.org/EO/2018/article20181124VN.html
+2018,20181118,typhoon,Vietnam,VNM,https://sentinel-asia.org/EO/2018/article20181118VN.html
+2018,20181116,cyclone,India Tamil Nadu,IND,https://sentinel-asia.org/EO/2018/article20181116IN.html
+2018,20181012,cyclone,United Arab Emirates,ARE,https://sentinel-asia.org/EO/2018/article20181012AE.html
+2018,20180928,earthquake,Indonesia,IDN,https://sentinel-asia.org/EO/2018/article20180928ID.html
+2018,20180917,typhoon,Vietnam,VNM,https://sentinel-asia.org/EO/2018/article20180917VN.html
+2018,20180915,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2018/article20180915PH.html
+2018,20180906,earthquake,Japan,JPN,https://sentinel-asia.org/EO/2018/article20180906JP.html
+2018,20180829,flood,Myanmar,MMR,https://sentinel-asia.org/EO/2018/article20180829MM.html
+2018,20180827,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2018/article20180827VN.html
+2018,20180825,flood,Taiwan,TWN,https://sentinel-asia.org/EO/2018/article20180825TW.html
+2018,20180809,flood,India,IND,https://sentinel-asia.org/EO/2018/article20180809IN.html
+2018,20180806,earthquake,Indonesia,IDN,https://sentinel-asia.org/EO/2018/article20180806ID.html
+2018,20180730,earthquake,Indonesia,IDN,https://sentinel-asia.org/EO/2018/article20180730ID.html
+2018,20180729,flood,Thailand,THA,https://sentinel-asia.org/EO/2018/article20180729TH.html
+2018,20180726,flood,Myanmar,MMR,https://sentinel-asia.org/EO/2018/article20180726MM.html
+2018,20180724,flood,Laos,LAO,https://sentinel-asia.org/EO/2018/article20180724LA.html
+2018,20180718,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2018/article20180718VN.html
+2018,20180709,oil spill,Thailand,THA,https://sentinel-asia.org/EO/2018/article20180709TH.html
+2018,20180707,flood,Japan,JPN,https://sentinel-asia.org/EO/2018/article20180707JP.html
+2018,20180623,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2018/article20180623VN.html
+2018,20180520,flood,Sri Lanka,LKA,https://sentinel-asia.org/EO/2018/article20180520LK.html
+2018,20180212,cyclone,Tonga,TON,https://sentinel-asia.org/EO/2018/article20180212TO.html
+2018,20180211,earthquake,Korea,KOR,https://sentinel-asia.org/EO/2018/article20180211KR.html
+2018,20180207,earthquake,Taiwan,TWN,https://sentinel-asia.org/EO/2018/article20180207TW.html
+2018,20180115,volcano,Philippines,PHL,https://sentinel-asia.org/EO/2018/article20180115PH.html
+2018,20180105,volcano,Papua New Guinea,PNG,https://sentinel-asia.org/EO/2018/article20180105PG.html
+2017,20171225,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2017/article20171225VN.html
+2017,20171202,cyclone,India,IND,https://sentinel-asia.org/EO/2017/article20171202IN.html
+2017,20171121,volcano,Indonesia,IDN,https://sentinel-asia.org/EO/2017/article20171121ID.html
+2017,20171119,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2017/article20171119VN.html
+2017,20171115,earthquake,Korea,KOR,https://sentinel-asia.org/EO/2017/article20171115KR.html
+2017,20171105,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2017/article20171105VN.html
+2017,20171102,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2017/article20171102VN.html
+2017,20171019,flood,Philippines,PHL,https://sentinel-asia.org/EO/2017/article20171019PH.html
+2017,20171018,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2017/article20171018VN.html
+2017,20171014,flood,Taiwan,TWN,https://sentinel-asia.org/EO/2017/article20171014TW.html
+2017,20171012,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2017/article20171012VN.html
+2017,20171010,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2017/article20171010VN.html
+2017,20170916,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2017/article20170916VN.html
+2017,20170823,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2017/article20170823VN.html
+2017,20170812,flood,Nepal,NPL,https://sentinel-asia.org/EO/2017/article20170812NP.html
+2017,20170810,flood,Bangladesh,BGD,https://sentinel-asia.org/EO/2017/article20170810BD.html
+2017,20170808,earthquake,China,CHN,https://sentinel-asia.org/EO/2017/article20170808CN.html
+2017,20170803,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2017/article20170803VN.html
+2017,20170730,typhoon,Taiwan,TWN,https://sentinel-asia.org/EO/2017/article20170730TW.html
+2017,20170726,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2017/article20170726VN.html
+2017,20170718,typhoon,Vietnam,VNM,https://sentinel-asia.org/EO/2017/article20170718VN.html
+2017,20170707,earthquake,Philippines,PHL,https://sentinel-asia.org/EO/2017/article20170707PH.html
+2017,20170624,landslide,China,CHN,https://sentinel-asia.org/EO/2017/article20170624CN.html
+2017,20170613,landslide,Bangladesh,BGD,https://sentinel-asia.org/EO/2017/article20170613BD.html
+2017,20170602,flood,Taiwan,TWN,https://sentinel-asia.org/EO/2017/article20170602TW.html
+2017,20170524,flood,Sri Lanka,LKA,https://sentinel-asia.org/EO/2017/article20170524LK.html
+2017,20170420,flood,Nepal,NPL,https://sentinel-asia.org/EO/2017/article20170420NP.html
+2017,20170214,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2017/article20170214ID.html
+2017,20170211,earthquake,Philippines,PHL,https://sentinel-asia.org/EO/2017/article20170211PH.html
+2017,20170209,landslide,Indonesia,IDN,https://sentinel-asia.org/EO/2017/article20170209ID.html
+2017,20170116,flood,Philippines,PHL,https://sentinel-asia.org/EO/2017/article20170116PH.html
+2017,20170106,flood,Thailand,THA,https://sentinel-asia.org/EO/2017/article20170106TH.html
+2016,20161225,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2016/article20161225PH.html
+2016,20161218,flood,Nepal,NPL,https://sentinel-asia.org/EO/2016/article20161218NP.html
+2016,20161212,cyclone,India,IND,https://sentinel-asia.org/EO/2016/article20161212IN.html
+2016,20161207,earthquake,Indonesia,IDN,https://sentinel-asia.org/EO/2016/article20161207ID.html
+2016,20161028,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2016/article20161028VN.html
+2016,20161020,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2016/article20161020PH.html
+2016,20161014,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2016/article20161014VN.html
+2016,20160928,typhoon,Taiwan,TWN,https://sentinel-asia.org/EO/2016/article20160928TW.html
+2016,20160920,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2016/article20160920ID.html
+2016,20160920,landslide,Indonesia,IDN,https://sentinel-asia.org/EO/2016/article20160920ID.html
+2016,20160915,typhoon,Taiwan,TWN,https://sentinel-asia.org/EO/2016/article20160915TW.html
+2016,20160914,cyclone,Philippines,PHL,https://sentinel-asia.org/EO/2016/article20160914PH.html
+2016,20160825,flood,India,IND,https://sentinel-asia.org/EO/2016/article20160825IN.html
+2016,20160824,flood,Laos,LAO,https://sentinel-asia.org/EO/2016/article20160824LA.html
+2016,20160824,earthquake,Myanmar,MMR,https://sentinel-asia.org/EO/2016/article20160824MM.html
+2016,20160803,flood,Myanmar,MMR,https://sentinel-asia.org/EO/2016/article20160803MM.html
+2016,20160731,flood,Bangladesh,BGD,https://sentinel-asia.org/EO/2016/article20160731BD.html
+2016,20160730,flood,Bhutan,BTN,https://sentinel-asia.org/EO/2016/article20160730BT.html
+2016,20160708,typhoon,Taiwan,TWN,https://sentinel-asia.org/EO/2016/article20160708TW.html
+2016,20160706,flood,Nepal,NPL,https://sentinel-asia.org/EO/2016/article20160706NP.html
+2016,20160619,landslide,Indonesia,IDN,https://sentinel-asia.org/EO/2016/article20160619ID.html
+2016,20160522,cyclone,Bangladesh,BGD,https://sentinel-asia.org/EO/2016/article20160522BD.html
+2016,20160521,volcano,Indonesia,IDN,https://sentinel-asia.org/EO/2016/article20160521ID.html
+2016,20160515,flood,Sri Lanka,LKA,https://sentinel-asia.org/EO/2016/article20160515LK.html
+2016,20160416,earthquake,Japan,JPN,https://sentinel-asia.org/EO/2016/article20160416JP.html
+2016,20160412,landslide,Pakistan,PAK,https://sentinel-asia.org/EO/2016/article20160412PK.html
+2016,20160404,landslide,Pakistan,PAK,https://sentinel-asia.org/EO/2016/article20160404PK.html
+2016,20160326,wildfire,Philippines,PHL,https://sentinel-asia.org/EO/2016/article20160326PH.html
+2016,20160312,oil spill,Taiwan,TWN,https://sentinel-asia.org/EO/2016/article20160312TW.html
+2016,20160308,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2016/article20160308ID.html
+2016,20160227,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2016/article20160227ID.html
+2016,20160222,flood,Myanmar,MMR,https://sentinel-asia.org/EO/2016/article20160222MM.html
+2016,20160220,cyclone,Fiji,FJI,https://sentinel-asia.org/EO/2016/article20160220FJ.html
+2016,20160206,earthquake,Taiwan,TWN,https://sentinel-asia.org/EO/2016/article20160206TW.html
+2015,20151214,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2015/article20151214PH.html
+2015,20151201,flood,India,IND,https://sentinel-asia.org/EO/2015/article20151201IN.html
+2015,20151026,earthquake,Pakistan,PAK,https://sentinel-asia.org/EO/2015/article20151026PK.html
+2015,20151018,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2015/article20151018PH.html
+2015,20150930,flood,Sri Lanka,LKA,https://sentinel-asia.org/EO/2015/article20150930LK.html
+2015,20150928,typhoon,Taiwan,TWN,https://sentinel-asia.org/EO/2015/article20150928TW.html
+2015,20150909,typhoon,Japan,JPN,https://sentinel-asia.org/EO/2015/article20150909JP.html
+2015,20150904,flood,Bangladesh,BGD,https://sentinel-asia.org/EO/2015/article20150904BD.html
+2015,20150807,typhoon,Taiwan,TWN,https://sentinel-asia.org/EO/2015/article20150807TW.html
+2015,20150806,landslide,Myanmar,MMR,https://sentinel-asia.org/EO/2015/article20150806MM.html
+2015,20150728,flood,Pakistan,PAK,https://sentinel-asia.org/EO/2015/article20150728PK.html
+2015,20150728,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2015/article20150728VN.html
+2015,20150720,landslide,Tajikistan,TJK,https://sentinel-asia.org/EO/2015/article20150720TJ.html
+2015,20150716,flood,Myanmar,MMR,https://sentinel-asia.org/EO/2015/article20150716MM.html
+2015,20150628,flood,Bhutan,BTN,https://sentinel-asia.org/EO/2015/article20150628BT.html
+2015,20150610,flood,Nepal,NPL,https://sentinel-asia.org/EO/2015/article20150610NP.html
+2015,20150529,volcano,Japan,JPN,https://sentinel-asia.org/EO/2015/article20150529JP.html
+2015,20150525,landslide,Nepal,NPL,https://sentinel-asia.org/EO/2015/article20150525NP.html
+2015,20150512,earthquake,Nepal,NPL,https://sentinel-asia.org/EO/2015/article20150512NP.html
+2015,20150425,earthquake,Nepal,NPL,https://sentinel-asia.org/EO/2015/article20150425NP.html
+2015,20150314,cyclone,Vanuatu,VUT,https://sentinel-asia.org/EO/2015/article20150314VU.html
+2015,20150227,oil spill,Vietnam,VNM,https://sentinel-asia.org/EO/2015/article20150227VN.html
+2015,20150209,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2015/article20150209ID.html
+2015,20150103,wildfire,Indonesia,IDN,https://sentinel-asia.org/EO/2015/article20150103ID.html
+2014,20141221,flood,Malaysia,MYS,https://sentinel-asia.org/EO/2014/article20141221MY.html
+2014,20141212,landslide,Indonesia,IDN,https://sentinel-asia.org/EO/2014/article20141212ID.html
+2014,20141206,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2014/article20141206PH.html
+2014,20141029,landslide,Sri Lanka,LKA,https://sentinel-asia.org/EO/2014/article20141029LK.html
+2014,20141012,flood,India,IND,https://sentinel-asia.org/EO/2014/article20141012IN.html
+2014,20140927,volcano,Japan,JPN,https://sentinel-asia.org/EO/2014/article20140927JP.html
+2014,20140824,flood,India,IND,https://sentinel-asia.org/EO/2014/article20140824IN.html
+2014,20140820,landslide,Japan,JPN,https://sentinel-asia.org/EO/2014/article20140820JP.html
+2014,20140803,earthquake,China,CHN,https://sentinel-asia.org/EO/2014/article20140803CN.html
+2014,20140802,landslide,Nepal,NPL,https://sentinel-asia.org/EO/2014/article20140802NP.html
+2014,20140414,landslide,Tajikistan,TJK,https://sentinel-asia.org/EO/2014/article20140414TJ.html
+2014,20140403,flood,Solomon,SLB,https://sentinel-asia.org/EO/2014/article20140403SB.html
+2014,20140214,volcano,Indonesia,IDN,https://sentinel-asia.org/EO/2014/article20140214ID.html
+2014,20140131,volcano,Indonesia,IDN,https://sentinel-asia.org/EO/2014/article20140131ID.html
+2014,20140116,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2014/article20140116ID.html
+2014,20140113,flood,Brunei,BRN,https://sentinel-asia.org/EO/2014/article20140113BN.html
+2014,20140110,cyclone,Tonga,TON,https://sentinel-asia.org/EO/2014/article20140110TO.html
+2013,20131203,flood,Malaysia,MYS,https://sentinel-asia.org/EO/2013/article20131203MY.html
+2013,20131108,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2013/article20131108PH.html
+2013,20131019,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2013/article20131019VN.html
+2013,20131016,landslide,Japan,JPN,https://sentinel-asia.org/EO/2013/article20131016JP.html
+2013,20131015,earthquake,Philippines,PHL,https://sentinel-asia.org/EO/2013/article20131015PH.html
+2013,20131014,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2013/article20131014VN.html
+2013,20131014,flood,India,IND,https://sentinel-asia.org/EO/2013/article20131014IN.html
+2013,20130824,flood,Japan,JPN,https://sentinel-asia.org/EO/2013/article20130824JP.html
+2013,20130819,flood,Philippines,PHL,https://sentinel-asia.org/EO/2013/article20130819PH.html
+2013,20130728,flood,Japan,JPN,https://sentinel-asia.org/EO/2013/article20130728JP.html
+2013,20130723,flood,Thailand,THA,https://sentinel-asia.org/EO/2013/article20130723TH.html
+2013,20130712,flood,Myanmar,MMR,https://sentinel-asia.org/EO/2013/article20130712MM.html
+2013,20130618,flood,Nepal,NPL,https://sentinel-asia.org/EO/2013/article20130618NP.html
+2013,20130617,flood,India,IND,https://sentinel-asia.org/EO/2013/article20130617IN.html
+2013,20130420,earthquake,China,CHN,https://sentinel-asia.org/EO/2013/article20130420CN.html
+2013,20130417,wildfire,Indonesia,IDN,https://sentinel-asia.org/EO/2013/article20130417ID.html
+2013,20130217,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2013/article20130217ID.html
+2013,20130205,tsunami,Solomon,SLB,https://sentinel-asia.org/EO/2013/article20130205SB.html
+2013,20130114,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2013/article20130114ID.html
+2012,20121227,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2012/article20121227PH.html
+2012,20121205,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2012/article20121205PH.html
+2012,20121205,flood,Brunei,BRN,https://sentinel-asia.org/EO/2012/article20121205BN.html
+2012,20121109,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2012/article20121109ID.html
+2012,20120923,flood,India,IND,https://sentinel-asia.org/EO/2012/article20120923IN.html
+2012,20120908,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2012/article20120908VN.html
+2012,20120826,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2012/article20120826ID.html
+2012,20120823,wildfire,Kazakhstan,KAZ,https://sentinel-asia.org/EO/2012/article20120823KZ.html
+2012,20120808,flood,Philippines,PHL,https://sentinel-asia.org/EO/2012/article20120808PH.html
+2012,20120721,flood,China,CHN,https://sentinel-asia.org/EO/2012/article20120721CN.html
+2012,20120703,flood,Japan,JPN,https://sentinel-asia.org/EO/2012/article20120703JP.html
+2012,20120625,flood,China,CHN,https://sentinel-asia.org/EO/2012/article20120625CN.html
+2012,20120511,flood,Tajikistan,TJK,https://sentinel-asia.org/EO/2012/article20120511TJ.html
+2012,20120505,flood,Nepal,NPL,https://sentinel-asia.org/EO/2012/article20120505NP.html
+2012,20120327,flood,Kyrgyzstan,KGZ,https://sentinel-asia.org/EO/2012/article20120327KG.html
+2012,20120302,flood,Kazakhstan,KAZ,https://sentinel-asia.org/EO/2012/article20120302KZ.html
+2012,20120207,earthquake,Philippines,PHL,https://sentinel-asia.org/EO/2012/article20120207PH.html
+2012,20120125,landslide,Papua New Guinea,PNG,https://sentinel-asia.org/EO/2012/article20120125PG.html
+2012,20120122,flood,Fiji,FJI,https://sentinel-asia.org/EO/2012/article20120122FJ.html
+2011,20111217,flood,Philippines,PHL,https://sentinel-asia.org/EO/2011/article20111217PH.html
+2011,20111212,volcano,Indonesia,IDN,https://sentinel-asia.org/EO/2011/article20111212ID.html
+2011,20111107,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2011/article20111107VN.html
+2011,20111022,flood,Myanmar,MMR,https://sentinel-asia.org/EO/2011/article20111022MM.html
+2011,20111004,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2011/article20111004VN.html
+2011,20111001,flood,Cambodia,KHM,https://sentinel-asia.org/EO/2011/article20111001KH.html
+2011,20110927,flood,Philippines,PHL,https://sentinel-asia.org/EO/2011/article20110927PH.html
+2011,20110921,flood,Japan,JPN,https://sentinel-asia.org/EO/2011/article20110921JP.html
+2011,20110919,earthquake,India,IND,https://sentinel-asia.org/EO/2011/article20110919IN.html
+2011,20110915,flood,Pakistan,PAK,https://sentinel-asia.org/EO/2011/article20110915PK.html
+2011,20110904,flood,Japan,JPN,https://sentinel-asia.org/EO/2011/article20110904JP.html
+2011,20110829,typhoon,Taiwan,TWN,https://sentinel-asia.org/EO/2011/article20110829TW.html
+2011,20110804,flood,Thailand,THA,https://sentinel-asia.org/EO/2011/article20110804TH.html
+2011,20110729,flood,Japan,JPN,https://sentinel-asia.org/EO/2011/article20110729JP.html
+2011,20110726,flood,Philippines,PHL,https://sentinel-asia.org/EO/2011/article20110726PH.html
+2011,20110720,earthquake,Kyrgyzstan,KGZ,https://sentinel-asia.org/EO/2011/article20110720KG.html
+2011,20110718,flood,India,IND,https://sentinel-asia.org/EO/2011/article20110718IN.html
+2011,20110716,flood,Nepal,NPL,https://sentinel-asia.org/EO/2011/article20110716NP.html
+2011,20110701,flood,Nepal,NPL,https://sentinel-asia.org/EO/2011/article20110701NP.html
+2011,20110614,flood,Tajikistan,TJK,https://sentinel-asia.org/EO/2011/article20110614TJ.html
+2011,20110507,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2011/article20110507ID.html
+2011,20110412,flood,Kazakhstan,KAZ,https://sentinel-asia.org/EO/2011/article20110412KZ.html
+2011,20110326,flood,Thailand,THA,https://sentinel-asia.org/EO/2011/article20110326TH.html
+2011,20110325,earthquake,Myanmar,MMR,https://sentinel-asia.org/EO/2011/article20110325MM.html
+2011,20110311,earthquake,Japan,JPN,https://sentinel-asia.org/EO/2011/article20110311JP.html
+2011,20110222,earthquake,New Zealand,NZL,https://sentinel-asia.org/EO/2011/article20110222NZ.html
+2011,20110203,flood,Sri Lanka,LKA,https://sentinel-asia.org/EO/2011/article20110203LK.html
+2011,20110203,flood,Philippines,PHL,https://sentinel-asia.org/EO/2011/article20110203PH.html
+2011,20110120,flood,Brunei,BRN,https://sentinel-asia.org/EO/2011/article20110120BN.html
+2011,20110110,flood,Sri Lanka,LKA,https://sentinel-asia.org/EO/2011/article20110110LK.html
+2011,20110103,flood,Australia,AUS,https://sentinel-asia.org/EO/2011/article20110103AU.html
+2010,20101210,flood,Sri Lanka,LKA,https://sentinel-asia.org/EO/2010/article20101210LK.html
+2010,20101130,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2010/article20101130VN.html
+2010,20101118,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2010/article20101118VN.html
+2010,20101101,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2010/article20101101VN.html
+2010,20101027,volcano,Indonesia,IDN,https://sentinel-asia.org/EO/2010/article20101027ID.html
+2010,20101026,tsunami,Indonesia,IDN,https://sentinel-asia.org/EO/2010/article20101026ID.html
+2010,20101022,flood,Taiwan,TWN,https://sentinel-asia.org/EO/2010/article20101022TW.html
+2010,20101020,flood,Japan,JPN,https://sentinel-asia.org/EO/2010/article20101020JP.html
+2010,20101018,storm,"Isabela, Philippines",PHL,https://sentinel-asia.org/EO/2010/article20101018PH.html
+2010,20101017,flood,Thailand,THA,https://sentinel-asia.org/EO/2010/article20101017TH.html
+2010,20101015,flood,Cambodia,KHM,https://sentinel-asia.org/EO/2010/article20101015KH.html
+2010,20101015,flood,Cambodia,KHM,https://sentinel-asia.org/EO/2010/article20101015KH.html
+2010,20101004,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2010/article20101004ID.html
+2010,20101004,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2010/article20101004VN.html
+2010,20100916,flood,India,IND,https://sentinel-asia.org/EO/2010/article20100916IN.html
+2010,20100829,volcano,Indonesia,IDN,https://sentinel-asia.org/EO/2010/article20100829ID.html
+2010,20100824,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2010/article20100824VN.html
+2010,20100812,volcano,Indonesia,IDN,https://sentinel-asia.org/EO/2010/article20100812ID.html
+2010,20100808,mudslide,China,CHN,https://sentinel-asia.org/EO/2010/article20100808CN.html
+2010,20100806,flood,India,IND,https://sentinel-asia.org/EO/2010/article20100806IN.html
+2010,20100731,flood,Pakistan,PAK,https://sentinel-asia.org/EO/2010/article20100731PK.html
+2010,20100725,flood,India,IND,https://sentinel-asia.org/EO/2010/article20100725IN.html
+2010,20100725,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2010/article20100725ID.html
+2010,20100721,flood,Bhutan,BTN,https://sentinel-asia.org/EO/2010/article20100721BT.html
+2010,20100717,typhoon,Vietnam,VNM,https://sentinel-asia.org/EO/2010/article20100717VN.html
+2010,20100615,landslide,Bangladesh,BGD,https://sentinel-asia.org/EO/2010/article20100615BD.html
+2010,20100514,flood,Sri Lanka,LKA,https://sentinel-asia.org/EO/2010/article20100514LK.html
+2010,20100507,flood,Tajikistan,TJK,https://sentinel-asia.org/EO/2010/article20100507TJ.html
+2010,20100425,landslide,Taiwan,TWN,https://sentinel-asia.org/EO/2010/article20100425TW.html
+2010,20100411,flood,Tajikistan,TJK,https://sentinel-asia.org/EO/2010/article20100411TJ.html
+2010,20100404,wildfire,Nepal,NPL,https://sentinel-asia.org/EO/2010/article20100404NP.html
+2010,20100321,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2010/article20100321ID.html
+2010,20100313,flood,Kazakhstan,KAZ,https://sentinel-asia.org/EO/2010/article20100313KZ.html
+2010,20100310,wildfire,Bhutan,BTN,https://sentinel-asia.org/EO/2010/article20100310BT.html
+2010,20100223,landslide,Indonesia,IDN,https://sentinel-asia.org/EO/2010/article20100223ID.html
+2009,20091225,volcano,Philippines,PHL,https://sentinel-asia.org/EO/2009/article20091225PH.html
+2009,20091216,flood,Sri Lanka,LKA,https://sentinel-asia.org/EO/2009/article20091216LK.html
+2009,20091102,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2009/article20091102VN.html
+2009,20091006,flood,Nepal,NPL,https://sentinel-asia.org/EO/2009/article20091006NP.html
+2009,20091006,flood,Nepal,NPL,https://sentinel-asia.org/EO/2009/article20091006NP.html
+2009,20091006,flood,Nepal,NPL,https://sentinel-asia.org/EO/2009/article20091006NP.html
+2009,20091004,flood,Philippines,PHL,https://sentinel-asia.org/EO/2009/article20091004PH.html
+2009,20091001,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2009/article20091001VN.html
+2009,20090930,earthquake,Indonesia,IDN,https://sentinel-asia.org/EO/2009/article20090930ID.html
+2009,20090926,flood,Philippines,PHL,https://sentinel-asia.org/EO/2009/article20090926PH.html
+2009,20090926,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2009/article20090926VN.html
+2009,20090902,earthquake,Indonesia,IDN,https://sentinel-asia.org/EO/2009/article20090902ID.html
+2009,20090818,flood,Nepal,NPL,https://sentinel-asia.org/EO/2009/article20090818NP.html
+2009,20090808,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2009/article20090808PH.html
+2009,20090705,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2009/article20090705VN.html
+2009,20090327,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2009/article20090327ID.html
+2009,20090311,typhoon,Australia,AUS,https://sentinel-asia.org/EO/2009/article20090311AU.html
+2009,20090219,flood,Australia,AUS,https://sentinel-asia.org/EO/2009/article20090219AU.html
+2009,20090207,wildfire,Australia,AUS,https://sentinel-asia.org/EO/2009/article20090207AU.html
+2009,20090122,flood,Philippines,PHL,https://sentinel-asia.org/EO/2009/article20090122PH.html
+2009,20090104,earthquake,Indonesia,IDN,https://sentinel-asia.org/EO/2009/article20090104ID.html
+2008,20081218,flood,Thailand,THA,https://sentinel-asia.org/EO/2008/article20081218TH.html
+2008,20081124,flood,Thailand,THA,https://sentinel-asia.org/EO/2008/article20081124TH.html
+2008,20081104,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2008/article20081104VN.html
+2008,20081029,earthquake,Pakistan,PAK,https://sentinel-asia.org/EO/2008/article20081029PK.html
+2008,20080920,flood,Nepal,NPL,https://sentinel-asia.org/EO/2008/article20080920NP.html
+2008,20080908,flood,Thailand,THA,https://sentinel-asia.org/EO/2008/article20080908TH.html
+2008,20080818,flood,Nepal,NPL,https://sentinel-asia.org/EO/2008/article20080818NP.html
+2008,20080812,flood,Laos,LAO,https://sentinel-asia.org/EO/2008/article20080812LA.html
+2008,20080724,earthquake,Japan,JPN,https://sentinel-asia.org/EO/2008/article20080724JP.html
+2008,20080621,typhoon,Philippines,PHL,https://sentinel-asia.org/EO/2008/article20080621PH.html
+2008,20080614,earthquake,Japan,JPN,https://sentinel-asia.org/EO/2008/article20080614JP.html
+2008,20080604,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2008/article20080604ID.html
+2008,20080512,earthquake,China,CHN,https://sentinel-asia.org/EO/2008/article20080512CN.html
+2008,20080502,cyclone,Myanmar,MMR,https://sentinel-asia.org/EO/2008/article20080502MM.html
+2008,20080224,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2008/article20080224ID.html
+2008,20080124,flood,Australia,AUS,https://sentinel-asia.org/EO/2008/article20080124AU.html
+2007,20071119,cyclone,Bangladesh,BGD,https://sentinel-asia.org/EO/2007/article20071119BD.html
+2007,20071115,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2007/article20071115VN.html
+2007,20071028,flood,Vietnam,VNM,https://sentinel-asia.org/EO/2007/article20071028VN.html
+2007,20071024,flood,Thailand,THA,https://sentinel-asia.org/EO/2007/article20071024TH.html
+2007,20070912,earthquake,Indonesia,IDN,https://sentinel-asia.org/EO/2007/article20070912ID.html
+2007,20070803,flood,Bangladesh,BGD,https://sentinel-asia.org/EO/2007/article20070803BD.html
+2007,20070723,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2007/article20070723ID.html
+2007,20070722,earthquake,Tajikistan,TJK,https://sentinel-asia.org/EO/2007/article20070722TJ.html
+2007,20070709,volcano,Indonesia,IDN,https://sentinel-asia.org/EO/2007/article20070709ID.html
+2007,20070626,flood,Pakistan,PAK,https://sentinel-asia.org/EO/2007/article20070626PK.html
+2007,20070611,landslide,Bangladesh,BGD,https://sentinel-asia.org/EO/2007/article20070611BD.html
+2007,20070527,cold wave,Nepal,NPL,https://sentinel-asia.org/EO/2007/article20070527NP.html
+2007,20070402,tsunami,Solomon,SLB,https://sentinel-asia.org/EO/2007/article20070402SB.html
+2007,20070306,earthquake,Indonesia,IDN,https://sentinel-asia.org/EO/2007/article20070306ID.html
+2007,20070203,flood,Indonesia,IDN,https://sentinel-asia.org/EO/2007/article20070203ID.html

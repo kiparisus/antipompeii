@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pixi
+.env
+.venv/
+env/
+venv/
+*.sqlite3
+.coverage
+.pytest_cache/
+.mypy_cache/
+cache/
+logs/
+src/data/

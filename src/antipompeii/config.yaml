@@ -1,0 +1,123 @@
+#####################################
+############ ANTIPOMPEII ############
+########### CONFIGURATION ###########
+#####################################
+#
+# This file is loaded by ANTIPOMPEII at startup.  Modes 1/2/3/5 use only a
+# handful of fields here (mode, defaults for prompts); Mode 4 (PRE-CONFIGURED)
+# uses every field below to drive a non-interactive run.
+
+# 1. ONLINE              — download OSM + WorldPop, full pipeline (interactive).
+# 2. LOCAL-AUTOMATED     — discover local cases under src/data/input/.
+# 3. LOCAL-MANUAL        — specify file paths interactively (planned).
+# 4. PRE-CONFIGURED      — run non-interactively from THIS file (or --config).
+# 5. EXISTING GRAPH      — load one or more pre-built .gt graphs.
+mode: 1
+config_version: 1
+
+# City, country.  Used for OSM geocoding and the disaster-DB lookup.
+city: "Laxenburg, Austria"
+
+# Bounding-box extent.  When use_coordinates is true the four corners below
+# replace OSM's place-name geocoding.
+extent:
+  use_coordinates: false
+  min_longitude: 16.33848
+  min_latitude:  48.05052
+  max_longitude: 16.41860
+  max_latitude:  48.07905
+  crs: "EPSG:4326"
+
+# Temporal mode: when enabled the entire pipeline iterates over `timestamps`
+# (one snapshot per YYYYMMDD).  recovery_graph + recovery_label feed the
+# robustness comparison if you want a future-state network in the picture.
+temporal:
+  enabled: false
+  timestamps: []                     # e.g. ["20181203", "20251014"]
+  recovery_graph: null               # path to a .gt graph, or null
+  recovery_label: "Recovery"
+
+# Facility-to-street snapping.
+#   strategy: single   — one nearest street per facility
+#             n_nearest — N nearest streets per facility (uses max_neighbors)
+#             all      — every street within max_distance (multiedge facility; see Kiparisov, Lagutov, Pflug, 2023 paper)
+facilities:
+  max_distance: 0.009               # degrees ≈ ~10 m at mid-latitudes
+  strategy: "all"
+  max_neighbors: null
+
+# WorldPop demographic raster download + dasymetric allocation.
+demography:
+  download: true
+  disaggregate: true                 # downloads age/sex-disaggregated rasters
+
+# Disruption overlay (disruption_{YYYYMMDD}.gpkg under src/data/input/disruption/).
+# In Mode 4 a missing file is normally a warning, not a hard failure.
+disruption:
+  skip_if_missing: true
+
+# DEM (Digital Elevation Model) download from OpenTopography.
+#   product:  one of SRTMGL3, SRTMGL1, AW3D30, COP30, COP90, NASADEM, … (see
+#             modules/dem_downloader.DEM_PRODUCT_KEYS for the full list).
+#   api_key:  null → falls back to $OPENTOPO_API_KEY, then skips download.
+dem:
+  download: true
+  api_key: null
+  product: "SRTMGL3"
+  n_samples: 5                       # DEM samples per street segment
+
+# OSM water-feature layer (rivers, lakes, coastline, wetlands …).  Produces
+# per-segment `water_dist_min` (meters), usable as a vulnerability covariate.
+#   include_wetlands     : natural=wetland (noisy in alluvial regions)
+#   include_coastline    : natural=coastline (only relevant for coastal cases)
+#   include_intermittent : keep waterway features tagged intermittent=yes
+water:
+  download: true
+  include_wetlands: true
+  include_coastline: true
+  include_intermittent: false
+
+# Graph construction + simplification.
+graph:
+  build: true
+  directed: false
+  tolerance: 1.0e-8                  # vertex-dedup tolerance in degrees
+  simplify: true
+  run_diagnostics: false
+
+# Per-module analytics knobs.  Set `run: false` on a module to skip it.
+analysis:
+  stats:
+    run: true
+    compound: true                   # multi-event mode: compound vs independent
+  robustness:
+    run: true
+    weight: "length"                 # length | hops
+  percolation:
+    run: true
+    scenarios: [1, 2]                # 1=BC attack, 2=random, 3=elevation flood
+    n_steps: null                    # null → auto (30% of edges, max 500)
+    recompute_every: 1
+    run_null: false
+    null_m: 5
+    n_random_runs: 10
+    elev_direction: "flood"          # flood | closure
+  vulnerability:
+    run: true
+    n_sim: 200
+    use_elevation: true
+    use_water: true                  # distance-to-water as flood-risk covariate
+    run_service_mc: true
+
+# LLM-augmented interpretation.  Off by default to avoid surprise costs.
+#   backend: ollama | claude | openai | perplexity | custom
+#   model:   bare model name (the backend prefix is added automatically).
+#   modules: ["all"] or a subset of ["stats","robustness","percolation","vulnerability"]
+ia:
+  run: false
+  backend: "ollama"
+  model: "llama3"
+  api_key: null
+  api_base: "http://localhost:11434"
+  timeout: 300
+  modules: ["all"]
